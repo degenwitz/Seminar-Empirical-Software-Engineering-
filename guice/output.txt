@@ -1,0 +1,1023 @@
+.\projects\guice\core\src\com\google\inject\AbstractModule.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\ConfigurationException.java:34:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\CreationException.java:34:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\Key.java:73:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 4 times in this file; the first occurrence is on line 73
+.\projects\guice\core\src\com\google\inject\Key.java:169:	LawOfDemeter:	Call to `getAnnotation` on foreign value `annotationStrategy` (degree 1)
+.\projects\guice\core\src\com\google\inject\PrivateModule.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\ProvisionException.java:35:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\TypeLiteral.java:167:	CognitiveComplexity:	The method 'resolveType(Type)' has a cognitive complexity of 55, current threshold is 15
+.\projects\guice\core\src\com\google\inject\TypeLiteral.java:167:	CyclomaticComplexity:	The method 'resolveType(Type)' has a cyclomatic complexity of 16.
+.\projects\guice\core\src\com\google\inject\TypeLiteral.java:252:	AvoidDuplicateLiterals:	The String literal "%s is not defined by a supertype of %s" appears 4 times in this file; the first occurrence is on line 252
+.\projects\guice\core\src\com\google\inject\internal\AbstractBindingProcessor.java:43:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\Annotations.java:52:	GodClass:	Possible God Class (WMC=60, ATFD=40, TCC=1.000%)
+.\projects\guice\core\src\com\google\inject\internal\Annotations.java:117:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\BindingProcessor.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\BindingProcessor.java:108:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 4 times in this file; the first occurrence is on line 108
+.\projects\guice\core\src\com\google\inject\internal\ChildBindingAlreadySetError.java:18:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ConstructionContext.java:62:	LawOfDemeter:	Access to field `disableCircularProxies` on foreign value `injectorOptions` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructionProxy.java:47:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:75:	LawOfDemeter:	Access to field `constructorInjector` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:84:	CyclomaticComplexity:	The method 'create(InjectorImpl, Key<T>, InjectionPoint, Object, Scoping, Errors, boolean, boolean)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:151:	LawOfDemeter:	Access to field `constructorInjector` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:152:	LawOfDemeter:	Access to field `constructors` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:153:	LawOfDemeter:	Access to field `provisionCallback` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:153:	LawOfDemeter:	Access to field `provisionListenerStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:164:	LawOfDemeter:	Access to field `constructorInjector` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:199:	LawOfDemeter:	Access to field `constructorInjector` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:205:	LawOfDemeter:	Access to field `constructorInjector` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorBindingImpl.java:211:	LawOfDemeter:	Access to field `constructorInjector` on foreign value `factory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorInjector.java:35:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ConstructorInjector.java:51:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ConstructorInjector.java:80:	LawOfDemeter:	Access to field `disableCircularProxies` on foreign value `context.getInjectorOptions()` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorInjectorStore.java:79:	LawOfDemeter:	Access to field `membersInjectorStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ConstructorInjectorStore.java:82:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ConstructorInjectorStore.java:84:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\DeferredLookups.java:45:	LawOfDemeter:	Access to field `lookups` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\DuplicateElementError.java:40:	CognitiveComplexity:	The method 'formatDetail(List<ErrorDetail<?>>, Formatter)' has a cognitive complexity of 23, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\DuplicateElementError.java:72:	LawOfDemeter:	Access to field `value` on foreign value `element` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\DuplicateElementError.java:96:	LawOfDemeter:	Access to field `binding` on foreign value `element` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\EncounterImpl.java:55:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\EncounterImpl.java:63:	AvoidDuplicateLiterals:	The String literal "Encounters may not be used after hear() returns." appears 8 times in this file; the first occurrence is on line 63
+.\projects\guice\core\src\com\google\inject\internal\EncounterImpl.java:73:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\EncounterImpl.java:79:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\Errors.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\Errors.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\Errors.java:68:	GodClass:	Possible God Class (WMC=106, ATFD=14, TCC=0.376%)
+.\projects\guice\core\src\com\google\inject\internal\Errors.java:68:	CyclomaticComplexity:	The class 'Errors' has a total cyclomatic complexity of 106 (highest 4).
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:65:	LooseCoupling:	Avoid using implementation types like 'IdentityHashMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:76:	CyclomaticComplexity:	The method 'requestInjection(InjectorImpl, TypeLiteral<T>, T, Binding<T>, Object, Set<InjectionPoint>, Errors)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:88:	LawOfDemeter:	Access to field `provisionListenerStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:93:	LawOfDemeter:	Access to field `membersInjectorStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:107:	LawOfDemeter:	Access to field `type` on foreign value `cached` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:198:	LawOfDemeter:	Access to field `membersInjectorStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:209:	CyclomaticComplexity:	The method 'get()' has a cyclomatic complexity of 11.
+.\projects\guice\core\src\com\google\inject\internal\Initializer.java:257:	LawOfDemeter:	Access to field `options` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectionRequestProcessor.java:112:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectionRequestProcessor.java:131:	LawOfDemeter:	Access to field `membersInjectorStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectionRequestProcessor.java:142:	LawOfDemeter:	Access to field `options` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:54:	GodClass:	Possible God Class (WMC=48, ATFD=17, TCC=8.712%)
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:180:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:190:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:198:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:208:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:216:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:226:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:234:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorBindingData.java:244:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:71:	GodClass:	Possible God Class (WMC=155, ATFD=95, TCC=10.714%)
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:71:	CyclomaticComplexity:	The class 'InjectorImpl' has a total cyclomatic complexity of 155 (highest 15).
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:149:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 15 times in this file; the first occurrence is on line 149
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:159:	AvoidDuplicateLiterals:	The String literal "key" appears 5 times in this file; the first occurrence is on line 159
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:261:	CyclomaticComplexity:	The method 'getJustInTimeBinding(Key<T>, Errors, JitLimitation)' has a cyclomatic complexity of 11.
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:451:	CyclomaticComplexity:	The method 'convertConstantStringBinding(Key<T>, Errors)' has a cyclomatic complexity of 12.
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:627:	CognitiveComplexity:	The method 'cleanup(BindingImpl<?>, Set<Key<?>>)' has a cognitive complexity of 21, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:868:	CyclomaticComplexity:	The method 'createJustInTimeBindingRecursive(Key<T>, Errors, boolean, JitLimitation)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:922:	CyclomaticComplexity:	The method 'createJustInTimeBinding(Key<T>, Errors, boolean, JitLimitation)' has a cyclomatic complexity of 15.
+.\projects\guice\core\src\com\google\inject\internal\InjectorImpl.java:922:	NPathComplexity:	The method 'createJustInTimeBinding(Key<T>, Errors, boolean, JitLimitation)' has an NPath complexity of 320, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\InjectorOptionsProcessor.java:79:	LawOfDemeter:	Access to field `stage` on foreign value `parentOptions` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorOptionsProcessor.java:82:	LawOfDemeter:	Access to field `jitDisabled` on foreign value `parentOptions` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorOptionsProcessor.java:83:	LawOfDemeter:	Access to field `disableCircularProxies` on foreign value `parentOptions` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorOptionsProcessor.java:84:	LawOfDemeter:	Access to field `atInjectRequired` on foreign value `parentOptions` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorOptionsProcessor.java:85:	LawOfDemeter:	Access to field `exactBindingAnnotationsRequired` on foreign value `parentOptions` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorShell.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\InjectorShell.java:105:	LawOfDemeter:	Access to field `options` on foreign value `parent` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorShell.java:106:	LawOfDemeter:	Access to field `stage` on foreign value `options` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\InjectorShell.java:195:	LawOfDemeter:	Access to field `membersInjectorStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InjectorShell.java:198:	LawOfDemeter:	Access to field `provisionListenerStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InstanceBindingImpl.java:37:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InterceptorStackCallback.java:90:	MethodReturnsInternalArray:	Returning 'arguments' may expose an internal array.
+.\projects\guice\core\src\com\google\inject\internal\InternalClassesToSkipSources.java:26:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InternalContext.java:32:	LooseCoupling:	Avoid using implementation types like 'IdentityHashMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InternalErrorDetail.java:15:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InternalErrorDetail.java:55:	LawOfDemeter:	Access to field `OTHER` on foreign value `ErrorId` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InternalInjectorCreator.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\InternalInjectorCreator.java:148:	LawOfDemeter:	Access to field `lookups` on foreign value `shell.getInjector()` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InternalProviderInstanceBindingImpl.java:59:	LawOfDemeter:	Access to field `source` on foreign value `originalFactory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InternalProviderInstanceBindingImpl.java:60:	LawOfDemeter:	Access to field `provisionCallback` on foreign value `originalFactory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InternalProviderInstanceBindingImpl.java:60:	LawOfDemeter:	Access to field `provisionListenerStore` on foreign value `injector` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InternalProviderInstanceBindingImpl.java:63:	LawOfDemeter:	Access to field `delegateProvider` on foreign value `originalFactory` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\InternalProvisionException.java:155:	CyclomaticComplexity:	The method 'onNullInjectedIntoNonNullableDependency(Object, Dependency<?>)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\InternalProvisionException.java:201:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\InternalProvisionException.java:238:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:39:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:40:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:41:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:42:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:48:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:64:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:121:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:138:	CognitiveComplexity:	The method 'injectMembers(T, InternalContext, boolean)' has a cognitive complexity of 17, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:138:	CyclomaticComplexity:	The method 'injectMembers(T, InternalContext, boolean)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:140:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:153:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:174:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:175:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorImpl.java:186:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorStore.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorStore.java:42:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorStore.java:97:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MembersInjectorStore.java:120:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationError.java:20:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationError.java:32:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationError.java:50:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationErrorHints.java:36:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationErrorHints.java:43:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationErrorHints.java:43:	CognitiveComplexity:	The method 'getSuggestions(Key<T>, Injector)' has a cognitive complexity of 30, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationErrorHints.java:43:	CyclomaticComplexity:	The method 'getSuggestions(Key<T>, Injector)' has a cyclomatic complexity of 17.
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationErrorHints.java:43:	NPathComplexity:	The method 'getSuggestions(Key<T>, Injector)' has an NPath complexity of 210, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\MissingImplementationErrorHints.java:52:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MoreTypes.java:44:	GodClass:	Possible God Class (WMC=64, ATFD=65, TCC=0.000%)
+.\projects\guice\core\src\com\google\inject\internal\MoreTypes.java:50:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\MoreTypes.java:211:	CognitiveComplexity:	The method 'equals(Type, Type)' has a cognitive complexity of 29, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\MoreTypes.java:211:	CyclomaticComplexity:	The method 'equals(Type, Type)' has a cyclomatic complexity of 11.
+.\projects\guice\core\src\com\google\inject\internal\MoreTypes.java:278:	CognitiveComplexity:	The method 'getGenericSupertype(Type, Class<?>, Class<?>)' has a cognitive complexity of 17, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\MoreTypes.java:278:	CyclomaticComplexity:	The method 'getGenericSupertype(Type, Class<?>, Class<?>)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\PackageNameCompressor.java:50:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\PackageNameCompressor.java:126:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\PackageNameCompressor.java:201:	CognitiveComplexity:	The method 'shortenNames(Collection<String>)' has a cognitive complexity of 19, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\PackageNameCompressor.java:201:	CyclomaticComplexity:	The method 'shortenNames(Collection<String>)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\PrivateElementsImpl.java:54:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\PrivateElementsImpl.java:57:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderInstanceBindingImpl.java:40:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethod.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethod.java:61:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethod.java:92:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethod.java:106:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethod.java:248:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethod.java:275:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:51:	GodClass:	Possible God Class (WMC=58, ATFD=29, TCC=19.167%)
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:111:	CognitiveComplexity:	The method 'getProviderMethods(Binder)' has a cognitive complexity of 51, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:111:	CyclomaticComplexity:	The method 'getProviderMethods(Binder)' has a cyclomatic complexity of 23.
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:111:	NPathComplexity:	The method 'getProviderMethods(Binder)' has an NPath complexity of 2520, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:172:	LawOfDemeter:	Access to field `annotation` on foreign value `methodAndAnnotation` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:178:	LawOfDemeter:	Call to `getDeclaringClass` on foreign value `method` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:184:	LawOfDemeter:	Call to `annotationType` on foreign value `annotation` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:186:	LawOfDemeter:	Call to `annotationType` on foreign value `annotation` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\ProviderMethodsModule.java:355:	LawOfDemeter:	Access to field `INSTANCE` on foreign value `ProvidesMethodScanner` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ProvidesMethodScanner.java:44:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProvidesMethodScanner.java:57:	CognitiveComplexity:	The method 'prepareMethod(Binder, Annotation, Key<T>, InjectionPoint)' has a cognitive complexity of 18, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\ProvidesMethodScanner.java:57:	CyclomaticComplexity:	The method 'prepareMethod(Binder, Annotation, Key<T>, InjectionPoint)' has a cyclomatic complexity of 13.
+.\projects\guice\core\src\com\google\inject\internal\ProvidesMethodScanner.java:118:	CognitiveComplexity:	The method 'findMapKeyAnnotation(Binder, Method)' has a cognitive complexity of 17, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\ProvidesMethodScanner.java:151:	CyclomaticComplexity:	The method 'typeAndValueOfMapKey(Annotation)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\ProvisionListenerCallbackStore.java:43:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProvisionListenerCallbackStore.java:46:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProvisionListenerStackCallback.java:75:	LawOfDemeter:	Access to field `erredListener` on foreign value `provision` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\ProvisionListenerStackCallback.java:75:	LawOfDemeter:	Call to `getClass` on foreign value `provision.erredListener` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:50:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:53:	CognitiveComplexity:	The constructor 'ProxyFactory(InjectionPoint, Iterable<MethodAspect>)' has a cognitive complexity of 17, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:53:	CyclomaticComplexity:	The constructor 'ProxyFactory(InjectionPoint, Iterable<MethodAspect>)' has a cyclomatic complexity of 12.
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:53:	NPathComplexity:	The constructor 'ProxyFactory(InjectionPoint, Iterable<MethodAspect>)' has an NPath complexity of 240, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:138:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:164:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\ProxyFactory.java:171:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:115:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 29 times in this file; the first occurrence is on line 115
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:244:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:274:	LawOfDemeter:	Call to `getEntrySetBinder` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:280:	LawOfDemeter:	Call to `getKeyType` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:293:	AvoidDuplicateLiterals:	The String literal "rawtypes" appears 8 times in this file; the first occurrence is on line 293
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:308:	LawOfDemeter:	Call to `getProviderMapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:317:	LawOfDemeter:	Call to `getMapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:323:	LawOfDemeter:	Call to `getEntrySetBinder` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:382:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:384:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:385:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:411:	CognitiveComplexity:	The method 'tryInitialize(InjectorImpl, Errors)' has a cognitive complexity of 23, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:411:	CyclomaticComplexity:	The method 'tryInitialize(InjectorImpl, Errors)' has a cyclomatic complexity of 11.
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:465:	AvoidDeeplyNestedIfStmts:	Deeply nested if..then statements are hard to read
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:480:	AvoidDeeplyNestedIfStmts:	Deeply nested if..then statements are hard to read
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:645:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:650:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:655:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:723:	LawOfDemeter:	Call to `entrySet` on foreign value `bindingSelection.getMapBindings()` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:723:	LawOfDemeter:	Call to `getMapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:724:	LawOfDemeter:	Call to `getValue` on foreign value `entry` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:725:	LawOfDemeter:	Call to `getValue` on foreign value `entry` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:770:	LawOfDemeter:	Call to `getMapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:774:	LawOfDemeter:	Call to `entrySet` on foreign value `bindingSelection.getMapBindings()` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:774:	LawOfDemeter:	Call to `getMapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:775:	LawOfDemeter:	Call to `getValue` on foreign value `entry` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:776:	LawOfDemeter:	Call to `getKey` on foreign value `entry` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:780:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:811:	LawOfDemeter:	Call to `getMapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:848:	LawOfDemeter:	Call to `getJakartaProviderMapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:849:	LawOfDemeter:	Call to `getProviderMapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:850:	LawOfDemeter:	Call to `getProviderSetMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:851:	LawOfDemeter:	Call to `getJakartaProviderSetMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:852:	LawOfDemeter:	Call to `getProviderCollectionMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:853:	LawOfDemeter:	Call to `getJakartaProviderCollectionMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:854:	LawOfDemeter:	Call to `getMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:855:	LawOfDemeter:	Call to `getMapOfKeyExtendsValueKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:872:	LawOfDemeter:	Call to `getEntries` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:879:	CognitiveComplexity:	The method 'getEntries(Iterable<? extends Element>)' has a cognitive complexity of 25, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:879:	CyclomaticComplexity:	The method 'getEntries(Iterable<? extends Element>)' has a cyclomatic complexity of 15.
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:879:	NPathComplexity:	The method 'getEntries(Iterable<? extends Element>)' has an NPath complexity of 340, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:902:	LawOfDemeter:	Call to `getEntrySetBinder` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:929:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:930:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:931:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1026:	LawOfDemeter:	Call to `getProviderSetMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1030:	LawOfDemeter:	Call to `getProviderSetMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1034:	LawOfDemeter:	Call to `getProviderSetMultimapKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1078:	LawOfDemeter:	Call to `entrySet` on foreign value `bindingSelection.getMultimapBindings()` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1078:	LawOfDemeter:	Call to `getMultimapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1080:	LawOfDemeter:	Call to `getValue` on foreign value `entry` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1144:	LawOfDemeter:	Call to `getMapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1150:	LawOfDemeter:	Call to `entrySet` on foreign value `bindingSelection.getMultimapBindings()` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1150:	LawOfDemeter:	Call to `getMultimapBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1154:	LawOfDemeter:	Call to `getValue` on foreign value `entry` (degree 2)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1186:	LawOfDemeter:	Access to field `injectors` on foreign value `perKeyData` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1192:	LawOfDemeter:	Access to field `bindings` on foreign value `perKeyData` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMapBinder.java:1348:	LawOfDemeter:	Call to `getBindingSelection` on foreign value `mapProvider` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:1:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:1:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:61:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 10 times in this file; the first occurrence is on line 61
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:119:	LawOfDemeter:	Call to `getCollectionOfProvidersKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:167:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:172:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:226:	LawOfDemeter:	Call to `getBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:232:	CyclomaticComplexity:	The method 'doProvision(InternalContext, Dependency<?>)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:264:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:309:	LawOfDemeter:	Call to `getCollectionOfProvidersKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:310:	LawOfDemeter:	Call to `getCollectionOfJakartaProvidersKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:311:	LawOfDemeter:	Call to `getSetOfExtendsKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:340:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:350:	LawOfDemeter:	Call to `getBindings` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:366:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:380:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:383:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:384:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:448:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:455:	MethodReturnsInternalArray:	Returning 'parameterinjectors' may expose an internal array.
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:458:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealMultibinder.java:462:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:63:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 10 times in this file; the first occurrence is on line 63
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:190:	LawOfDemeter:	Call to `getDirectKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:250:	LawOfDemeter:	Call to `getBinding` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:251:	LawOfDemeter:	Call to `getDependency` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:314:	LawOfDemeter:	Call to `getDirectKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:336:	LawOfDemeter:	Call to `getBinding` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:365:	LawOfDemeter:	Call to `getBinding` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:402:	LawOfDemeter:	Call to `getBinding` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:437:	LawOfDemeter:	Call to `getBinding` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:438:	LawOfDemeter:	Call to `getDependency` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:486:	LawOfDemeter:	Call to `getDirectKey` on foreign value `bindingSelection` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:516:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:527:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:528:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:633:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:637:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\internal\RealOptionalBinder.java:659:	LawOfDemeter:	Access to field `bindingSelection` on foreign value `(RealOptionalBinderProviderWithDependencies<?, ?>) providerInstance` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\Scoping.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\internal\Scoping.java:294:	LawOfDemeter:	Call to `getScopeInstance` on foreign value `scoping` (degree 1)
+.\projects\guice\core\src\com\google\inject\internal\SingletonScope.java:98:	CognitiveComplexity:	The method 'scope(Key<T>, Provider<T>)' has a cognitive complexity of 67, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\SingletonScope.java:98:	NPathComplexity:	The method 'scope(Key<T>, Provider<T>)' has an NPath complexity of 1860, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\SingletonScope.java:147:	CognitiveComplexity:	The method 'get()' has a cognitive complexity of 41, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\SingletonScope.java:147:	CyclomaticComplexity:	The method 'get()' has a cyclomatic complexity of 17.
+.\projects\guice\core\src\com\google\inject\internal\SourceFormatter.java:51:	AvoidDuplicateLiterals:	The String literal "%s%s\n" appears 6 times in this file; the first occurrence is on line 51
+.\projects\guice\core\src\com\google\inject\internal\aop\ClassBuilding.java:48:	GodClass:	Possible God Class (WMC=48, ATFD=30, TCC=0.000%)
+.\projects\guice\core\src\com\google\inject\internal\aop\Enhancer.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\aop\EnhancerBuilderImpl.java:74:	MethodReturnsInternalArray:	Returning 'enhanceableMethods' may expose an internal array.
+.\projects\guice\core\src\com\google\inject\internal\aop\FastClass.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\internal\aop\FastClass.java:142:	AvoidDuplicateLiterals:	The String literal "<init>" appears 4 times in this file; the first occurrence is on line 142
+.\projects\guice\core\src\com\google\inject\internal\aop\ImmutableStringTrie.java:201:	CognitiveComplexity:	The method 'buildSubTrie(StringBuilder, String[], int, int, int)' has a cognitive complexity of 18, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\aop\ImmutableStringTrie.java:201:	CyclomaticComplexity:	The method 'buildSubTrie(StringBuilder, String[], int, int, int)' has a cyclomatic complexity of 10.
+.\projects\guice\core\src\com\google\inject\internal\aop\MethodPartition.java:63:	CognitiveComplexity:	The method 'collectEnhanceableMethods(TypeLiteral<?>, Consumer<Method>, Map<Method, Method>)' has a cognitive complexity of 44, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\aop\MethodPartition.java:63:	CyclomaticComplexity:	The method 'collectEnhanceableMethods(TypeLiteral<?>, Consumer<Method>, Map<Method, Method>)' has a cyclomatic complexity of 22.
+.\projects\guice\core\src\com\google\inject\internal\aop\MethodPartition.java:63:	NPathComplexity:	The method 'collectEnhanceableMethods(TypeLiteral<?>, Consumer<Method>, Map<Method, Method>)' has an NPath complexity of 1332, current threshold is 200
+.\projects\guice\core\src\com\google\inject\internal\util\LineNumbers.java:62:	CognitiveComplexity:	The constructor 'LineNumbers(Class<?>)' has a cognitive complexity of 15, current threshold is 15
+.\projects\guice\core\src\com\google\inject\internal\util\LineNumbers.java:81:	AvoidDeeplyNestedIfStmts:	Deeply nested if..then statements are hard to read
+.\projects\guice\core\src\com\google\inject\internal\util\SourceProvider.java:37:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:1:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:57:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:92:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:94:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:100:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:108:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:110:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:141:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:142:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:163:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:176:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:179:	LawOfDemeter:	Access to field `moduleSource` on foreign value `elementSource` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:181:	LawOfDemeter:	Access to field `scanner` on foreign value `elementSource` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:184:	LawOfDemeter:	Access to field `trustedOriginalElementSource` on foreign value `elementSource` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:203:	LawOfDemeter:	Access to field `trustedOriginalElementSource` on foreign value `elementSource` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:233:	LawOfDemeter:	Access to field `moduleSource` on foreign value `elementSource` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:264:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:277:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:280:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:282:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:330:	LawOfDemeter:	Access to field `modulePermits` on foreign value `permitMap` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\BindingSourceRestriction.java:335:	LawOfDemeter:	Access to field `moduleSource` on foreign value `elementSource` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:116:	LawOfDemeter:	Access to field `privateBindersForScanning` on foreign value `binder` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:119:	LawOfDemeter:	Access to field `permitMapConstruction` on foreign value `binder` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:181:	GodClass:	Possible God Class (WMC=78, ATFD=28, TCC=28.920%)
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:182:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:362:	LawOfDemeter:	Access to field `moduleSource` on foreign value `entry.getValue()` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:380:	CognitiveComplexity:	The method 'install(Module)' has a cognitive complexity of 19, current threshold is 15
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:380:	CyclomaticComplexity:	The method 'install(Module)' has a cyclomatic complexity of 13.
+.\projects\guice\core\src\com\google\inject\spi\Elements.java:380:	NPathComplexity:	The method 'install(Module)' has an NPath complexity of 768, current threshold is 200
+.\projects\guice\core\src\com\google\inject\spi\ErrorDetail.java:21:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:66:	GodClass:	Possible God Class (WMC=92, ATFD=95, TCC=2.581%)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:66:	CyclomaticComplexity:	The class 'InjectionPoint' has a total cyclomatic complexity of 92 (highest 25).
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:73:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:131:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:294:	CyclomaticComplexity:	The method 'forConstructorOf(TypeLiteral<?>, boolean)' has a cyclomatic complexity of 11.
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:553:	LawOfDemeter:	Access to field `previous` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:554:	LawOfDemeter:	Access to field `next` on foreign value `tail` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:561:	LawOfDemeter:	Access to field `previous` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:561:	LawOfDemeter:	Access to field `next` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:564:	LawOfDemeter:	Access to field `next` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:564:	LawOfDemeter:	Access to field `previous` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:567:	LawOfDemeter:	Access to field `next` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:570:	LawOfDemeter:	Access to field `previous` on foreign value `member` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:615:	CognitiveComplexity:	The method 'removeIfOverriddenBy(Method, boolean, InjectableMethod)' has a cognitive complexity of 26, current threshold is 15
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:615:	CyclomaticComplexity:	The method 'removeIfOverriddenBy(Method, boolean, InjectableMethod)' has a cyclomatic complexity of 12.
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:626:	LawOfDemeter:	Access to field `head` on foreign value `injectableMembers` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:683:	LawOfDemeter:	Access to field `method` on foreign value `injectableMethod` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:700:	CognitiveComplexity:	The method 'getInjectionPoints(TypeLiteral<?>, boolean, Errors)' has a cognitive complexity of 83, current threshold is 15
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:700:	CyclomaticComplexity:	The method 'getInjectionPoints(TypeLiteral<?>, boolean, Errors)' has a cyclomatic complexity of 25.
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:700:	NPathComplexity:	The method 'getInjectionPoints(TypeLiteral<?>, boolean, Errors)' has an NPath complexity of 3848, current threshold is 200
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:711:	LawOfDemeter:	Access to field `position` on foreign value `overrideIndex` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:713:	LawOfDemeter:	Access to field `position` on foreign value `overrideIndex` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:796:	LawOfDemeter:	Access to field `head` on foreign value `injectableMembers` (degree 1)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:844:	LawOfDemeter:	Call to `getModifiers` on foreign value `method` (degree 2)
+.\projects\guice\core\src\com\google\inject\spi\InjectionPoint.java:848:	LawOfDemeter:	Call to `getTypeParameters` on foreign value `method` (degree 2)
+.\projects\guice\core\src\com\google\inject\spi\InterceptorBinding.java:48:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\src\com\google\inject\util\Modules.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\src\com\google\inject\util\Modules.java:179:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\util\Modules.java:203:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\util\Modules.java:204:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\util\Modules.java:207:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\util\Modules.java:213:	CognitiveComplexity:	The method 'configure()' has a cognitive complexity of 37, current threshold is 15
+.\projects\guice\core\src\com\google\inject\util\Modules.java:213:	NPathComplexity:	The method 'configure()' has an NPath complexity of 1008, current threshold is 200
+.\projects\guice\core\src\com\google\inject\util\Modules.java:235:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\src\com\google\inject\util\Providers.java:118:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\AllTests.java:52:	NcssCount:	The method 'suite()' has a NCSS line count of 66.
+.\projects\guice\core\test\com\google\inject\BinderTest.java:707:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:64:	AvoidDuplicateLiterals:	The String literal "apple" appears 20 times in this file; the first occurrence is on line 64
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:70:	AvoidDuplicateLiterals:	The String literal " was bound" appears 7 times in this file; the first occurrence is on line 70
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:363:	AvoidDuplicateLiterals:	The String literal "test" appears 5 times in this file; the first occurrence is on line 363
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:443:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:444:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:449:	LawOfDemeter:	Access to field `key` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:450:	LawOfDemeter:	Access to field `injectsKey` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:496:	LawOfDemeter:	Access to field `value` on foreign value `injectable` (degree 2)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:502:	LawOfDemeter:	Access to field `provider` on foreign value `hasProvider` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:505:	LawOfDemeter:	Access to field `provider` on foreign value `hasProvider` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:513:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:519:	LawOfDemeter:	Access to field `key` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:543:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:549:	LawOfDemeter:	Access to field `key` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:550:	LawOfDemeter:	Access to field `injectsKey` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:593:	LawOfDemeter:	Call to `getSimpleName` on foreign value `injectsKey` (degree 2)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:593:	AvoidDuplicateLiterals:	The String literal ".inject" appears 4 times in this file; the first occurrence is on line 593
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:594:	LawOfDemeter:	Call to `getSimpleName` on foreign value `injectsKey` (degree 2)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:606:	LawOfDemeter:	Call to `getSimpleName` on foreign value `injectsKey` (degree 2)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:607:	LawOfDemeter:	Call to `getSimpleName` on foreign value `injectsKey` (degree 2)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:617:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:618:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:624:	LawOfDemeter:	Access to field `key` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:625:	LawOfDemeter:	Access to field `injectsKey` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:628:	LawOfDemeter:	Access to field `creationTime` on foreign value `builder` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:647:	AvoidDuplicateLiterals:	The String literal "Illegal value: -1" appears 7 times in this file; the first occurrence is on line 647
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:697:	LawOfDemeter:	Access to field `provider` on foreign value `hasProvider` (degree 1)
+.\projects\guice\core\test\com\google\inject\BinderTestSuite.java:700:	LawOfDemeter:	Access to field `provider` on foreign value `hasProvider` (degree 1)
+.\projects\guice\core\test\com\google\inject\BindingAnnotationTest.java:36:	AvoidDuplicateLiterals:	The String literal "foo" appears 5 times in this file; the first occurrence is on line 36
+.\projects\guice\core\test\com\google\inject\BindingTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\BindingTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\BindingTest.java:162:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\BindingTest.java:296:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 5 times in this file; the first occurrence is on line 296
+.\projects\guice\core\test\com\google\inject\BindingTest.java:555:	AvoidDuplicateLiterals:	The String literal "Turkey" appears 5 times in this file; the first occurrence is on line 555
+.\projects\guice\core\test\com\google\inject\BindingTest.java:583:	AvoidDuplicateLiterals:	The String literal "value" appears 5 times in this file; the first occurrence is on line 583
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:127:	LawOfDemeter:	Call to `getB` on foreign value `a` (degree 1)
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:129:	LawOfDemeter:	Call to `getB` on foreign value `a` (degree 1)
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:130:	LawOfDemeter:	Call to `getB` on foreign value `a` (degree 1)
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:145:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:197:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:240:	AvoidDuplicateLiterals:	The String literal "but it is not an interface." appears 5 times in this file; the first occurrence is on line 240
+.\projects\guice\core\test\com\google\inject\CircularDependencyTest.java:358:	AvoidDuplicateLiterals:	The String literal ", and circular dependencies are disabled." appears 6 times in this file; the first occurrence is on line 358
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:60:	AvoidDuplicateLiterals:	The String literal "instance" appears 4 times in this file; the first occurrence is on line 60
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:61:	AvoidDuplicateLiterals:	The String literal "pInstance" appears 6 times in this file; the first occurrence is on line 61
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:62:	AvoidDuplicateLiterals:	The String literal "pKey" appears 7 times in this file; the first occurrence is on line 62
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:63:	AvoidDuplicateLiterals:	The String literal "linkedKey" appears 6 times in this file; the first occurrence is on line 63
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:65:	AvoidDuplicateLiterals:	The String literal "constructor" appears 7 times in this file; the first occurrence is on line 65
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:127:	AvoidDuplicateLiterals:	The String literal "expected exception" appears 4 times in this file; the first occurrence is on line 127
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:132:	AvoidDuplicateLiterals:	The String literal "value" appears 13 times in this file; the first occurrence is on line 132
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:190:	AvoidDuplicateLiterals:	The String literal "1  : DuplicateBindingsTest$SimpleModule.configure" appears 5 times in this file; the first occurrence is on line 190
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:191:	AvoidDuplicateLiterals:	The String literal "2  : DuplicateBindingsTest$SimpleModule.configure" appears 5 times in this file; the first occurrence is on line 191
+.\projects\guice\core\test\com\google\inject\DuplicateBindingsTest.java:323:	AvoidDuplicateLiterals:	The String literal "test" appears 4 times in this file; the first occurrence is on line 323
+.\projects\guice\core\test\com\google\inject\EagerSingletonTest.java:88:	CognitiveComplexity:	The method 'testJustInTimeEagerSingletons_multipleThreads()' has a cognitive complexity of 16, current threshold is 15
+.\projects\guice\core\test\com\google\inject\EagerSingletonTest.java:176:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\EagerSingletonTest.java:187:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\EagerSingletonTest.java:193:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ImplicitBindingTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\ImplicitBindingTest.java:38:	LawOfDemeter:	Access to field `bar` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\ImplicitBindingTest.java:177:	AvoidDuplicateLiterals:	The String literal "No implementation for " appears 4 times in this file; the first occurrence is on line 177
+.\projects\guice\core\test\com\google\inject\ImplicitBindingTest.java:177:	AvoidDuplicateLiterals:	The String literal " was bound." appears 4 times in this file; the first occurrence is on line 177
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:80:	AvoidDuplicateLiterals:	The String literal "test" appears 6 times in this file; the first occurrence is on line 80
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:81:	LawOfDemeter:	Access to field `bar` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:84:	LawOfDemeter:	Access to field `bar` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:87:	LawOfDemeter:	Access to field `bar` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:107:	LawOfDemeter:	Call to `getTee` on foreign value `bar` (degree 1)
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:250:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:252:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\InjectorTest.java:266:	AvoidDuplicateLiterals:	The String literal "foo" appears 4 times in this file; the first occurrence is on line 266
+.\projects\guice\core\test\com\google\inject\Java8LanguageFeatureBindingTest.java:60:	AvoidDuplicateLiterals:	The String literal "foo" appears 5 times in this file; the first occurrence is on line 60
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:33:	GodClass:	Possible God Class (WMC=64, ATFD=58, TCC=0.000%)
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:221:	AvoidDuplicateLiterals:	The String literal "should have failed" appears 12 times in this file; the first occurrence is on line 221
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:332:	AvoidDuplicateLiterals:	The String literal "unused" appears 6 times in this file; the first occurrence is on line 332
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:572:	LawOfDemeter:	Access to field `literal` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:732:	CognitiveComplexity:	The method 'ensureFails(Injector, GetBindingCheck, Class<?>[])' has a cognitive complexity of 22, current threshold is 15
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:732:	CyclomaticComplexity:	The method 'ensureFails(Injector, GetBindingCheck, Class<?>[])' has a cyclomatic complexity of 11.
+.\projects\guice\core\test\com\google\inject\JitBindingsTest.java:736:	AvoidDuplicateLiterals:	The String literal "should have failed tring to retrieve class: " appears 6 times in this file; the first occurrence is on line 736
+.\projects\guice\core\test\com\google\inject\KeyTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\KeyTest.java:86:	AvoidDuplicateLiterals:	The String literal "foo" appears 4 times in this file; the first occurrence is on line 86
+.\projects\guice\core\test\com\google\inject\KeyTest.java:148:	AvoidDuplicateLiterals:	The String literal "int" appears 4 times in this file; the first occurrence is on line 148
+.\projects\guice\core\test\com\google\inject\KotlinSupportDoesNotBreakJavaTest.java:30:	AvoidDuplicateLiterals:	The String literal "test" appears 4 times in this file; the first occurrence is on line 30
+.\projects\guice\core\test\com\google\inject\LoggerInjectionTest.java:27:	LawOfDemeter:	Access to field `logger` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\MembersInjectorTest.java:100:	LawOfDemeter:	Access to field `b` on foreign value `injectableA` (degree 1)
+.\projects\guice\core\test\com\google\inject\MembersInjectorTest.java:128:	LawOfDemeter:	Access to field `b` on foreign value `injectableA` (degree 1)
+.\projects\guice\core\test\com\google\inject\MembersInjectorTest.java:185:	LawOfDemeter:	Access to field `aMembersInjector` on foreign value `injectsMembersInjector` (degree 1)
+.\projects\guice\core\test\com\google\inject\MembersInjectorTest.java:187:	LawOfDemeter:	Access to field `b` on foreign value `a` (degree 1)
+.\projects\guice\core\test\com\google\inject\MembersInjectorTest.java:255:	LawOfDemeter:	Access to field `b` on foreign value `a` (degree 1)
+.\projects\guice\core\test\com\google\inject\MethodInterceptionTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\MethodInterceptionTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\MethodInterceptionTest.java:334:	LawOfDemeter:	Access to field `lastElements` on foreign value `interceptable` (degree 1)
+.\projects\guice\core\test\com\google\inject\MethodInterceptionTest.java:335:	LawOfDemeter:	Access to field `lastElements` on foreign value `interceptable` (degree 1)
+.\projects\guice\core\test\com\google\inject\MethodInterceptionTest.java:344:	LawOfDemeter:	Access to field `lastElements` on foreign value `interceptable` (degree 1)
+.\projects\guice\core\test\com\google\inject\MethodInterceptionTest.java:345:	LawOfDemeter:	Access to field `lastElements` on foreign value `interceptable` (degree 1)
+.\projects\guice\core\test\com\google\inject\OptionalBindingTest.java:282:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\OptionalBindingTest.java:302:	LawOfDemeter:	Access to field `hasOptionalInjections` on foreign value `indirect` (degree 1)
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:44:	AvoidDuplicateLiterals:	The String literal "public" appears 4 times in this file; the first occurrence is on line 44
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:163:	AvoidDuplicateLiterals:	The String literal "private" appears 5 times in this file; the first occurrence is on line 163
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:313:	AvoidDuplicateLiterals:	The String literal "nested" appears 4 times in this file; the first occurrence is on line 313
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:357:	AvoidDuplicateLiterals:	The String literal "bound inner, exposed both" appears 4 times in this file; the first occurrence is on line 357
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:409:	AvoidDuplicateLiterals:	The String literal "abc" appears 6 times in this file; the first occurrence is on line 409
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:423:	AvoidDuplicateLiterals:	The String literal "abcd" appears 6 times in this file; the first occurrence is on line 423
+.\projects\guice\core\test\com\google\inject\PrivateModuleTest.java:457:	AvoidDuplicateLiterals:	The String literal "abcde" appears 5 times in this file; the first occurrence is on line 457
+.\projects\guice\core\test\com\google\inject\ProviderInjectionTest.java:42:	LawOfDemeter:	Access to field `barProvider` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProviderInjectionTest.java:44:	LawOfDemeter:	Access to field `barProvider` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProviderInjectionTest.java:46:	LawOfDemeter:	Access to field `singletonProvider` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProviderInjectionTest.java:48:	LawOfDemeter:	Access to field `singletonProvider` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProviderInjectionTest.java:206:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:68:	AvoidDuplicateLiterals:	The String literal "Reason: RuntimeException: boo" appears 4 times in this file; the first occurrence is on line 68
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:69:	AvoidDuplicateLiterals:	The String literal "while locating ProvisionListenerTest$Foo" appears 5 times in this file; the first occurrence is on line 69
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:70:	AvoidDuplicateLiterals:	The String literal "boo" appears 6 times in this file; the first occurrence is on line 70
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:114:	AvoidDuplicateLiterals:	The String literal "1) [Guice/ErrorInjectingConstructor]: RuntimeException: Retry, Abort, Fail" appears 6 times in this file; the first occurrence is on line 114
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:175:	LawOfDemeter:	Access to field `capture` on foreign value `listener` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:175:	LawOfDemeter:	Call to `get` on foreign value `listener.capture` (degree 2)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:180:	LawOfDemeter:	Access to field `capture` on foreign value `listener` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:180:	LawOfDemeter:	Call to `get` on foreign value `listener.capture` (degree 2)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:186:	LawOfDemeter:	Access to field `capture` on foreign value `listener` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:186:	LawOfDemeter:	Call to `get` on foreign value `listener.capture` (degree 2)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:223:	LawOfDemeter:	Access to field `capture` on foreign value `listener` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:223:	LawOfDemeter:	Call to `get` on foreign value `listener.capture` (degree 2)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:228:	LawOfDemeter:	Access to field `capture` on foreign value `listener` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:228:	LawOfDemeter:	Call to `get` on foreign value `listener.capture` (degree 2)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:234:	LawOfDemeter:	Access to field `capture` on foreign value `listener` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:234:	LawOfDemeter:	Call to `get` on foreign value `listener.capture` (degree 2)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:877:	LawOfDemeter:	Access to field `y` on foreign value `x` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:878:	LawOfDemeter:	Access to field `y` on foreign value `x` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:878:	LawOfDemeter:	Access to field `y` on foreign value `x` (degree 1)
+.\projects\guice\core\test\com\google\inject\ProvisionListenerTest.java:883:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\RequestInjectionTest.java:57:	AvoidDuplicateLiterals:	The String literal "test" appears 7 times in this file; the first occurrence is on line 57
+.\projects\guice\core\test\com\google\inject\RequestInjectionTest.java:190:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\RequestInjectionTest.java:193:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\RequestInjectionTest.java:266:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\RequireAtInjectOnConstructorsTest.java:43:	AvoidDuplicateLiterals:	The String literal "No injectable constructor for type RequireAtInjectOnConstructorsTest$NoCxtors." appears 5 times in this file; the first occurrence is on line 43
+.\projects\guice\core\test\com\google\inject\RestrictedBindingSourceTest.java:255:	AvoidDuplicateLiterals:	The String literal "foo" appears 5 times in this file; the first occurrence is on line 255
+.\projects\guice\core\test\com\google\inject\RestrictedBindingSourceTest.java:386:	AvoidDuplicateLiterals:	The String literal "bar" appears 6 times in this file; the first occurrence is on line 386
+.\projects\guice\core\test\com\google\inject\RestrictedBindingSourceTest.java:491:	AvoidDuplicateLiterals:	The String literal "lorem ipsum" appears 4 times in this file; the first occurrence is on line 491
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:56:	GodClass:	Possible God Class (WMC=62, ATFD=49, TCC=0.794%)
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:186:	AvoidDuplicateLiterals:	The String literal "InjectScopeAnnotationOnInterfaceOrAbstractClass" appears 4 times in this file; the first occurrence is on line 186
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:326:	LawOfDemeter:	Access to field `providers` on foreign value `scope` (degree 1)
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:326:	LawOfDemeter:	Call to `get` on foreign value `scope.providers` (degree 2)
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:529:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:534:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:539:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:547:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:557:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:562:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:577:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:584:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:589:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:680:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 4 times in this file; the first occurrence is on line 680
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:682:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:742:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:798:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:857:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:882:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:901:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:1082:	LawOfDemeter:	Access to field `h` on foreign value `g` (degree 1)
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:1082:	LawOfDemeter:	Access to field `g` on foreign value `h` (degree 1)
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:1175:	NcssCount:	The method 'testUnresolvableSingletonCircularDependencyErrorMessage()' has a NCSS line count of 65.
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:1175:	CognitiveComplexity:	The method 'testUnresolvableSingletonCircularDependencyErrorMessage()' has a cognitive complexity of 22, current threshold is 15
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:1175:	CyclomaticComplexity:	The method 'testUnresolvableSingletonCircularDependencyErrorMessage()' has a cyclomatic complexity of 13.
+.\projects\guice\core\test\com\google\inject\ScopesTest.java:1175:	NPathComplexity:	The method 'testUnresolvableSingletonCircularDependencyErrorMessage()' has an NPath complexity of 400, current threshold is 200
+.\projects\guice\core\test\com\google\inject\TypeConversionTest.java:179:	AvoidDuplicateLiterals:	The String literal "invalid" appears 4 times in this file; the first occurrence is on line 179
+.\projects\guice\core\test\com\google\inject\TypeConversionTest.java:263:	LawOfDemeter:	Access to field `foo` on foreign value `injector.getInstance(LongHolder.class)` (degree 1)
+.\projects\guice\core\test\com\google\inject\TypeListenerTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\TypeListenerTest.java:239:	AvoidDuplicateLiterals:	The String literal "Error notifying TypeListener clumsy" appears 4 times in this file; the first occurrence is on line 239
+.\projects\guice\core\test\com\google\inject\TypeLiteralTest.java:73:	AvoidDuplicateLiterals:	The String literal "rawtypes" appears 5 times in this file; the first occurrence is on line 73
+.\projects\guice\core\test\com\google\inject\TypeLiteralTypeResolutionTest.java:98:	LawOfDemeter:	Call to `getGenericReturnType` on foreign value `HashMap.class.getMethod("entrySet")` (degree 1)
+.\projects\guice\core\test\com\google\inject\TypeLiteralTypeResolutionTest.java:316:	LooseCoupling:	Avoid using implementation types like 'AbstractList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\TypeLiteralTypeResolutionTest.java:316:	LooseCoupling:	Avoid using implementation types like 'AbstractList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\internal\CycleDetectingLockTest.java:192:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:87:	GodClass:	Possible God Class (WMC=74, ATFD=55, TCC=13.741%)
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:89:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:128:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:245:	AvoidDuplicateLiterals:	The String literal "abc" appears 9 times in this file; the first occurrence is on line 245
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:498:	AvoidDuplicateLiterals:	The String literal "num" appears 5 times in this file; the first occurrence is on line 498
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:874:	AvoidDuplicateLiterals:	The String literal "one" appears 4 times in this file; the first occurrence is on line 874
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:1318:	LawOfDemeter:	Access to field `mapbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:1323:	LawOfDemeter:	Access to field `mapbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:1374:	AvoidDuplicateLiterals:	The String literal "rawtypes" appears 5 times in this file; the first occurrence is on line 1’374
+.\projects\guice\core\test\com\google\inject\internal\MapBinderTest.java:1387:	AvoidDuplicateLiterals:	The String literal "keyOne" appears 4 times in this file; the first occurrence is on line 1’387
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:90:	GodClass:	Possible God Class (WMC=66, ATFD=37, TCC=28.116%)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:151:	AvoidDuplicateLiterals:	The String literal "abc" appears 5 times in this file; the first occurrence is on line 151
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1389:	LawOfDemeter:	Access to field `mapbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1390:	LawOfDemeter:	Access to field `mapbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1391:	LawOfDemeter:	Access to field `mapbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1393:	LawOfDemeter:	Access to field `setbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1394:	LawOfDemeter:	Access to field `setbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1395:	LawOfDemeter:	Access to field `setbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1397:	LawOfDemeter:	Access to field `optionalbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1398:	LawOfDemeter:	Access to field `optionalbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\MultibinderTest.java:1399:	LawOfDemeter:	Access to field `optionalbinding` on foreign value `collector` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\OptionalBinderTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\internal\OptionalBinderTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\internal\OptionalBinderTest.java:71:	GodClass:	Possible God Class (WMC=60, ATFD=39, TCC=14.588%)
+.\projects\guice\core\test\com\google\inject\internal\OptionalBinderTest.java:147:	AvoidDuplicateLiterals:	The String literal "foo" appears 22 times in this file; the first occurrence is on line 147
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:89:	GodClass:	Possible God Class (WMC=208, ATFD=125, TCC=0.000%)
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:89:	CyclomaticComplexity:	The class 'SpiUtils' has a total cyclomatic complexity of 208 (highest 37).
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:136:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 6 times in this file; the first occurrence is on line 136
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:137:	NcssCount:	The method 'mapInjectorTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has a NCSS line count of 150.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:137:	CognitiveComplexity:	The method 'mapInjectorTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has a cognitive complexity of 85, current threshold is 15
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:137:	CyclomaticComplexity:	The method 'mapInjectorTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has a cyclomatic complexity of 29.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:137:	NPathComplexity:	The method 'mapInjectorTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has an NPath complexity of 792, current threshold is 200
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:157:	AvoidDuplicateLiterals:	The String literal ", but was: " appears 4 times in this file; the first occurrence is on line 157
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:339:	NcssCount:	The method 'mapModuleTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has a NCSS line count of 177.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:339:	CognitiveComplexity:	The method 'mapModuleTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has a cognitive complexity of 69, current threshold is 15
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:339:	CyclomaticComplexity:	The method 'mapModuleTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has a cyclomatic complexity of 37.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:339:	NPathComplexity:	The method 'mapModuleTest(Key<T>, TypeLiteral<?>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, MapResult<?, ?>[])' has an NPath complexity of 69400, current threshold is 200
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:623:	NcssCount:	The method 'setInjectorTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<T>[])' has a NCSS line count of 74.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:623:	CognitiveComplexity:	The method 'setInjectorTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<T>[])' has a cognitive complexity of 33, current threshold is 15
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:623:	CyclomaticComplexity:	The method 'setInjectorTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<T>[])' has a cyclomatic complexity of 18.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:623:	NPathComplexity:	The method 'setInjectorTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<T>[])' has an NPath complexity of 616, current threshold is 200
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:731:	NcssCount:	The method 'setModuleTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<?>[])' has a NCSS line count of 69.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:731:	CognitiveComplexity:	The method 'setModuleTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<?>[])' has a cognitive complexity of 29, current threshold is 15
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:731:	CyclomaticComplexity:	The method 'setModuleTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<?>[])' has a cyclomatic complexity of 17.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:731:	NPathComplexity:	The method 'setModuleTest(Key<Set<T>>, TypeLiteral<?>, Iterable<? extends Module>, boolean, int, BindResult<?>[])' has an NPath complexity of 968, current threshold is 200
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:887:	NcssCount:	The method 'optionalInjectorTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has a NCSS line count of 112.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:887:	CognitiveComplexity:	The method 'optionalInjectorTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has a cognitive complexity of 33, current threshold is 15
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:887:	CyclomaticComplexity:	The method 'optionalInjectorTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has a cyclomatic complexity of 24.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:887:	NPathComplexity:	The method 'optionalInjectorTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has an NPath complexity of 1140, current threshold is 200
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:943:	AvoidDuplicateLiterals:	The String literal ", actualActual: " appears 4 times in this file; the first occurrence is on line 943
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:1066:	NcssCount:	The method 'optionalModuleTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has a NCSS line count of 120.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:1066:	CognitiveComplexity:	The method 'optionalModuleTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has a cognitive complexity of 68, current threshold is 15
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:1066:	CyclomaticComplexity:	The method 'optionalModuleTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has a cyclomatic complexity of 36.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:1066:	NPathComplexity:	The method 'optionalModuleTest(Key<T>, Iterable<? extends Module>, int, BindResult<?>, BindResult<?>, BindResult<?>)' has an NPath complexity of 3324, current threshold is 200
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:1274:	CyclomaticComplexity:	The method 'matches(Binding<?>, BindResult<?>)' has a cyclomatic complexity of 13.
+.\projects\guice\core\test\com\google\inject\internal\SpiUtils.java:1275:	LawOfDemeter:	Access to field `type` on foreign value `result` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\WeakKeySetTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\internal\WeakKeySetTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\internal\util\ContinuousStopwatchTest.java:29:	LawOfDemeter:	Call to `getLevel` on foreign value `logger` (degree 1)
+.\projects\guice\core\test\com\google\inject\internal\util\LineNumbersTest.java:102:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:54:	AvoidDuplicateLiterals:	The String literal "foo" appears 24 times in this file; the first occurrence is on line 54
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:62:	AvoidDuplicateLiterals:	The String literal "foo2" appears 6 times in this file; the first occurrence is on line 62
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:66:	AvoidDuplicateLiterals:	The String literal "bar" appears 16 times in this file; the first occurrence is on line 66
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:74:	AvoidDuplicateLiterals:	The String literal "bar2" appears 4 times in this file; the first occurrence is on line 74
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:84:	AvoidDuplicateLiterals:	The String literal "na2" appears 6 times in this file; the first occurrence is on line 84
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:139:	LawOfDemeter:	Access to field `DEFAULT` on foreign value `ProvidesIntoOptional.Type` (degree 1)
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:145:	LawOfDemeter:	Access to field `ACTUAL` on foreign value `ProvidesIntoOptional.Type` (degree 1)
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:151:	LawOfDemeter:	Access to field `DEFAULT` on foreign value `ProvidesIntoOptional.Type` (degree 1)
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:157:	LawOfDemeter:	Access to field `ACTUAL` on foreign value `ProvidesIntoOptional.Type` (degree 1)
+.\projects\guice\core\test\com\google\inject\multibindings\ProvidesIntoTest.java:215:	AvoidDuplicateLiterals:	The String literal "unused" appears 4 times in this file; the first occurrence is on line 215
+.\projects\guice\core\test\com\google\inject\name\NamedEquivalanceTest.java:49:	AvoidDuplicateLiterals:	The String literal "foo" appears 15 times in this file; the first occurrence is on line 49
+.\projects\guice\core\test\com\google\inject\name\NamedEquivalanceTest.java:70:	AvoidDuplicateLiterals:	The String literal "bar" appears 11 times in this file; the first occurrence is on line 70
+.\projects\guice\core\test\com\google\inject\name\NamedEquivalanceTest.java:170:	AvoidDuplicateLiterals:	The String literal "value" appears 8 times in this file; the first occurrence is on line 170
+.\projects\guice\core\test\com\google\inject\name\NamesTest.java:35:	AvoidDuplicateLiterals:	The String literal "foo" appears 4 times in this file; the first occurrence is on line 35
+.\projects\guice\core\test\com\google\inject\name\NamesTest.java:58:	AvoidDuplicateLiterals:	The String literal "SanJose" appears 6 times in this file; the first occurrence is on line 58
+.\projects\guice\core\test\com\google\inject\name\NamesTest.java:58:	AvoidDuplicateLiterals:	The String literal "Sharks" appears 6 times in this file; the first occurrence is on line 58
+.\projects\guice\core\test\com\google\inject\name\NamesTest.java:59:	AvoidDuplicateLiterals:	The String literal "Edmonton" appears 7 times in this file; the first occurrence is on line 59
+.\projects\guice\core\test\com\google\inject\name\NamesTest.java:59:	AvoidDuplicateLiterals:	The String literal "Oilers" appears 6 times in this file; the first occurrence is on line 59
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:530:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:560:	LooseCoupling:	Avoid using implementation types like 'HashMap'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:840:	AvoidDuplicateLiterals:	The String literal "Expected IllegalStateException" appears 4 times in this file; the first occurrence is on line 840
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:1017:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:1017:	LooseCoupling:	Avoid using implementation types like 'ArrayList'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:1018:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ElementsTest.java:1022:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:72:	AvoidDuplicateLiterals:	The String literal "Key[type=java.lang.String, annotation=" appears 4 times in this file; the first occurrence is on line 72
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:160:	LooseCoupling:	Avoid using implementation types like 'HashSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:161:	LooseCoupling:	Avoid using implementation types like 'HashSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:161:	LooseCoupling:	Avoid using implementation types like 'HashSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:169:	LooseCoupling:	Avoid using implementation types like 'LinkedHashSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:312:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:316:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:383:	AvoidDuplicateLiterals:	The String literal "gInject" appears 5 times in this file; the first occurrence is on line 383
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:384:	AvoidDuplicateLiterals:	The String literal "privateAtAndPublicG" appears 5 times in this file; the first occurrence is on line 384
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:385:	AvoidDuplicateLiterals:	The String literal "privateGAndPublicAt" appears 4 times in this file; the first occurrence is on line 385
+.\projects\guice\core\test\com\google\inject\spi\InjectionPointTest.java:488:	AvoidDuplicateLiterals:	The String literal "OverridesGuiceInjectableMethod" appears 4 times in this file; the first occurrence is on line 488
+.\projects\guice\core\test\com\google\inject\spi\InjectorSpiTest.java:1:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\spi\InjectorSpiTest.java:308:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\spi\InjectorSpiTest.java:312:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\google\inject\spi\ModuleAnnotatedMethodScannerTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\spi\ModuleAnnotatedMethodScannerTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\spi\ModuleAnnotatedMethodScannerTest.java:65:	AvoidDuplicateLiterals:	The String literal "foo" appears 75 times in this file; the first occurrence is on line 65
+.\projects\guice\core\test\com\google\inject\spi\ModuleAnnotatedMethodScannerTest.java:71:	AvoidDuplicateLiterals:	The String literal "foo2" appears 5 times in this file; the first occurrence is on line 71
+.\projects\guice\core\test\com\google\inject\spi\ModuleAnnotatedMethodScannerTest.java:82:	AvoidDuplicateLiterals:	The String literal "foo-munged" appears 4 times in this file; the first occurrence is on line 82
+.\projects\guice\core\test\com\google\inject\spi\ModuleAnnotatedMethodScannerTest.java:706:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:80:	GodClass:	Possible God Class (WMC=65, ATFD=80, TCC=0.000%)
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:82:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 6 times in this file; the first occurrence is on line 82
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:202:	LawOfDemeter:	Call to `getBar` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:203:	LawOfDemeter:	Call to `getBar` on foreign value `foo` (degree 1)
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:251:	AvoidDuplicateLiterals:	The String literal "First" appears 4 times in this file; the first occurrence is on line 251
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:252:	AvoidDuplicateLiterals:	The String literal "Second" appears 4 times in this file; the first occurrence is on line 252
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:298:	AvoidDuplicateLiterals:	The String literal "count" appears 4 times in this file; the first occurrence is on line 298
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:408:	AvoidDuplicateLiterals:	The String literal "foo" appears 11 times in this file; the first occurrence is on line 408
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:483:	AvoidDuplicateLiterals:	The String literal "unused" appears 7 times in this file; the first occurrence is on line 483
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:713:	AvoidDuplicateLiterals:	The String literal "rawtypes" appears 4 times in this file; the first occurrence is on line 713
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:758:	AvoidDuplicateLiterals:	The String literal "Overriding @Provides methods is not allowed." appears 10 times in this file; the first occurrence is on line 758
+.\projects\guice\core\test\com\google\inject\spi\ProviderMethodsTest.java:759:	AvoidDuplicateLiterals:	The String literal "@Provides method: ProviderMethodsTest$SuperClassModule.providerMethod()" appears 6 times in this file; the first occurrence is on line 759
+.\projects\guice\core\test\com\google\inject\spi\SpiBindingsTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\spi\SpiBindingsTest.java:56:	AvoidDuplicateLiterals:	The String literal "one" appears 8 times in this file; the first occurrence is on line 56
+.\projects\guice\core\test\com\google\inject\spi\SpiBindingsTest.java:481:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\core\test\com\google\inject\spi\ToolStageInjectorTest.java:30:	AvoidDuplicateLiterals:	The String literal "Non-SPI Injector methods must throw an exception in the TOOL stage." appears 5 times in this file; the first occurrence is on line 30
+.\projects\guice\core\test\com\google\inject\spi\ToolStageInjectorTest.java:134:	AvoidDuplicateLiterals:	The String literal "unused" appears 8 times in this file; the first occurrence is on line 134
+.\projects\guice\core\test\com\google\inject\util\OverrideModuleTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\core\test\com\google\inject\util\OverrideModuleTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\google\inject\util\OverrideModuleTest.java:702:	AvoidDuplicateLiterals:	The String literal "test" appears 6 times in this file; the first occurrence is on line 702
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:60:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getDeclaredField("a")` (degree 1)
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:61:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getDeclaredField("b")` (degree 1)
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:62:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getDeclaredField("c")` (degree 1)
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:63:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getDeclaredField("d")` (degree 1)
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:64:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getDeclaredField("e")` (degree 1)
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:65:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getDeclaredField("f")` (degree 1)
+.\projects\guice\core\test\com\google\inject\util\TypesTest.java:147:	LawOfDemeter:	Call to `getGenericType` on foreign value `getClass().getField(fieldName)` (degree 1)
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:86:	AvoidDuplicateLiterals:	The String literal "jodie" appears 4 times in this file; the first occurrence is on line 86
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:116:	LawOfDemeter:	Access to field `bProvider` on foreign value `g` (degree 1)
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:117:	LawOfDemeter:	Access to field `cProvider` on foreign value `g` (degree 1)
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:118:	LawOfDemeter:	Access to field `dProvider` on foreign value `g` (degree 1)
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:119:	LawOfDemeter:	Access to field `eProvider` on foreign value `g` (degree 1)
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:493:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\googlecode\guice\JakartaTest.java:498:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\core\test\com\googlecode\guice\OSGiContainerTest.java:145:	AvoidDuplicateLiterals:	The String literal "reference:file:" appears 5 times in this file; the first occurrence is on line 145
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:57:	DataClass:	The class 'AA' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:82:	DataClass:	The class 'AB' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:107:	DataClass:	The class 'AC' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:132:	DataClass:	The class 'AD' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:157:	DataClass:	The class 'BA' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:182:	DataClass:	The class 'BB' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:207:	DataClass:	The class 'BC' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:232:	DataClass:	The class 'BD' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:257:	DataClass:	The class 'CA' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:282:	DataClass:	The class 'CB' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:307:	DataClass:	The class 'CC' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:332:	DataClass:	The class 'CD' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:357:	DataClass:	The class 'DA' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:383:	DataClass:	The class 'DB' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:409:	DataClass:	The class 'DC' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\core\test\com\googlecode\guice\bundle\OSGiTestActivator.java:435:	DataClass:	The class 'DD' is suspected to be a Data Class (WOC=0.000%, NOPA=1, NOAM=4, WMC=5)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider.java:164:	GodClass:	Possible God Class (WMC=51, ATFD=39, TCC=13.636%)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider.java:268:	CognitiveComplexity:	The method 'createMethodMapping(TypeLiteral<?>, TypeLiteral<?>)' has a cognitive complexity of 24, current threshold is 15
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider.java:268:	CyclomaticComplexity:	The method 'createMethodMapping(TypeLiteral<?>, TypeLiteral<?>)' has a cyclomatic complexity of 19.
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider.java:268:	NPathComplexity:	The method 'createMethodMapping(TypeLiteral<?>, TypeLiteral<?>)' has an NPath complexity of 1188, current threshold is 200
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:88:	GodClass:	Possible God Class (WMC=137, ATFD=116, TCC=3.986%)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:88:	CyclomaticComplexity:	The class 'FactoryProvider2' has a total cyclomatic complexity of 137 (highest 40).
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:154:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:173:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:226:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:229:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:248:	NcssCount:	The constructor 'FactoryProvider2(Key<F>, BindingCollector, Lookup)' has a NCSS line count of 101.
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:248:	CognitiveComplexity:	The constructor 'FactoryProvider2(Key<F>, BindingCollector, Lookup)' has a cognitive complexity of 72, current threshold is 15
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:248:	CyclomaticComplexity:	The constructor 'FactoryProvider2(Key<F>, BindingCollector, Lookup)' has a cyclomatic complexity of 40.
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:248:	NPathComplexity:	The constructor 'FactoryProvider2(Key<F>, BindingCollector, Lookup)' has an NPath complexity of 2222021, current threshold is 200
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:256:	AvoidDuplicateLiterals:	The String literal "unchecked" appears 5 times in this file; the first occurrence is on line 256
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:315:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:571:	CognitiveComplexity:	The method 'findMatchingConstructorInjectionPoint(Method, Key<?>, TypeLiteral<T>, List<Key<?>>)' has a cognitive complexity of 23, current threshold is 15
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:571:	CyclomaticComplexity:	The method 'findMatchingConstructorInjectionPoint(Method, Key<?>, TypeLiteral<T>, List<Key<?>>)' has a cyclomatic complexity of 18.
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:819:	LawOfDemeter:	Access to field `returnType` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:836:	LawOfDemeter:	Access to field `paramTypes` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:842:	LawOfDemeter:	Access to field `paramTypes` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:844:	LawOfDemeter:	Access to field `providers` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:855:	LawOfDemeter:	Access to field `implementationType` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:865:	LawOfDemeter:	Access to field `cachedBinding` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:875:	CognitiveComplexity:	The method 'invoke(Object, Method, Object[])' has a cognitive complexity of 17, current threshold is 15
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:875:	CyclomaticComplexity:	The method 'invoke(Object, Method, Object[])' has a cyclomatic complexity of 14.
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:897:	LawOfDemeter:	Access to field `cachedBinding` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:903:	LawOfDemeter:	Access to field `providers` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\src\com\google\inject\assistedinject\FactoryProvider2.java:918:	LawOfDemeter:	Access to field `providers` on foreign value `data` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\ExtensionSpiTest.java:79:	LawOfDemeter:	Access to field `assistedInjectBindings` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryModuleBuilderTest.java:74:	AvoidDuplicateLiterals:	The String literal "Unable to create AssistedInject factory." appears 4 times in this file; the first occurrence is on line 74
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryModuleBuilderTest.java:383:	AvoidDuplicateLiterals:	The String literal "unused" appears 6 times in this file; the first occurrence is on line 383
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryModuleBuilderTest.java:486:	AvoidDuplicateLiterals:	The String literal "dog" appears 4 times in this file; the first occurrence is on line 486
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryModuleBuilderTest.java:487:	AvoidDuplicateLiterals:	The String literal "cat1" appears 4 times in this file; the first occurrence is on line 487
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryModuleBuilderTest.java:488:	AvoidDuplicateLiterals:	The String literal "cat2" appears 4 times in this file; the first occurrence is on line 488
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryModuleBuilderTest.java:489:	AvoidDuplicateLiterals:	The String literal "cat3" appears 4 times in this file; the first occurrence is on line 489
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:58:	GodClass:	Possible God Class (WMC=52, ATFD=108, TCC=0.000%)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:100:	AvoidDuplicateLiterals:	The String literal "horsePower" appears 4 times in this file; the first occurrence is on line 100
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:101:	AvoidDuplicateLiterals:	The String literal "modelYear" appears 4 times in this file; the first occurrence is on line 101
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:185:	AvoidDuplicateLiterals:	The String literal "unused" appears 12 times in this file; the first occurrence is on line 185
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:272:	AvoidDuplicateLiterals:	The String literal "trans am" appears 5 times in this file; the first occurrence is on line 272
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:282:	LawOfDemeter:	Access to field `modifiersProvider` on foreign value `blackFirebird` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:312:	LawOfDemeter:	Access to field `colorProvider` on foreign value `flamingbird` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:313:	LawOfDemeter:	Access to field `modifiersProvider` on foreign value `flamingbird` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:316:	LawOfDemeter:	Access to field `colorProvider` on foreign value `flamingbird2` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:317:	LawOfDemeter:	Access to field `modifiersProvider` on foreign value `flamingbird2` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:319:	LawOfDemeter:	Access to field `colorProvider` on foreign value `flamingbird` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:353:	LawOfDemeter:	Access to field `features` on foreign value `deLorean` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:353:	LawOfDemeter:	Call to `iterator` on foreign value `deLorean.features` (degree 2)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:354:	LawOfDemeter:	Access to field `featureActivationSpeeds` on foreign value `deLorean` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:354:	LawOfDemeter:	Call to `iterator` on foreign value `deLorean.featureActivationSpeeds` (degree 2)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:387:	LawOfDemeter:	Access to field `manufacturersProvider` on foreign value `orangeZ` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:633:	LawOfDemeter:	Access to field `colorProvider` on foreign value `subaru` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:634:	LawOfDemeter:	Access to field `colorProvider` on foreign value `subaru` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:637:	LawOfDemeter:	Access to field `colorProvider` on foreign value `sedan` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:638:	LawOfDemeter:	Access to field `colorProvider` on foreign value `sedan` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:641:	LawOfDemeter:	Access to field `colorProvider` on foreign value `subaru` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:659:	LawOfDemeter:	Access to field `colorProvider` on foreign value `subaru` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:660:	LawOfDemeter:	Access to field `colorProvider` on foreign value `subaru` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:666:	AvoidDuplicateLiterals:	The String literal "color" appears 6 times in this file; the first occurrence is on line 666
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:691:	AvoidDuplicateLiterals:	The String literal "value" appears 4 times in this file; the first occurrence is on line 691
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:744:	AvoidDuplicateLiterals:	The String literal ") A Provider may not be a type in a factory method of an AssistedInject." appears 4 times in this file; the first occurrence is on line 744
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:874:	LawOfDemeter:	Access to field `mustang` on foreign value `fleet` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:875:	LawOfDemeter:	Access to field `mustang` on foreign value `fleet` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:876:	LawOfDemeter:	Access to field `camaro` on foreign value `fleet` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:877:	LawOfDemeter:	Access to field `camaro` on foreign value `fleet` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:878:	LawOfDemeter:	Access to field `camaro` on foreign value `fleet` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:882:	AvoidDuplicateLiterals:	The String literal "paint" appears 5 times in this file; the first occurrence is on line 882
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProvider2Test.java:1456:	AvoidDuplicateLiterals:	The String literal "foo" appears 11 times in this file; the first occurrence is on line 1’456
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:201:	AvoidDuplicateLiterals:	The String literal "unused" appears 13 times in this file; the first occurrence is on line 201
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:299:	LawOfDemeter:	Access to field `modifiersProvider` on foreign value `blackFirebird` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:331:	LawOfDemeter:	Access to field `features` on foreign value `deLorean` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:331:	LawOfDemeter:	Call to `iterator` on foreign value `deLorean.features` (degree 2)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:332:	LawOfDemeter:	Access to field `featureActivationSpeeds` on foreign value `deLorean` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:332:	LawOfDemeter:	Call to `iterator` on foreign value `deLorean.featureActivationSpeeds` (degree 2)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\FactoryProviderTest.java:364:	LawOfDemeter:	Access to field `manufacturersProvider` on foreign value `orangeZ` (degree 1)
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\ManyConstructorsTest.java:39:	AvoidDuplicateLiterals:	The String literal "no index" appears 8 times in this file; the first occurrence is on line 39
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\ManyConstructorsTest.java:42:	AvoidDuplicateLiterals:	The String literal "index" appears 10 times in this file; the first occurrence is on line 42
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\ManyConstructorsTest.java:267:	AvoidDuplicateLiterals:	The String literal "Pop" appears 4 times in this file; the first occurrence is on line 267
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\ManyConstructorsTest.java:270:	AvoidDuplicateLiterals:	The String literal "Mom" appears 4 times in this file; the first occurrence is on line 270
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\ManyConstructorsTest.java:281:	AvoidDuplicateLiterals:	The String literal "mom" appears 4 times in this file; the first occurrence is on line 281
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\subpkg\SubpackageTest.java:83:	AvoidDuplicateLiterals:	The String literal "unused" appears 6 times in this file; the first occurrence is on line 83
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\subpkg\SubpackageTest.java:167:	AvoidDuplicateLiterals:	The String literal "foo" appears 15 times in this file; the first occurrence is on line 167
+.\projects\guice\extensions\assistedinject\test\com\google\inject\assistedinject\subpkg\SubpackageTestPrivateFallbackOnly.java:77:	AvoidDuplicateLiterals:	The String literal "unused" appears 6 times in this file; the first occurrence is on line 77
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:134:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:138:	LawOfDemeter:	Access to field `modules` on foreign value `builder` (degree 1)
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:139:	LawOfDemeter:	Access to field `predicate` on foreign value `builder` (degree 1)
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:149:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:224:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:237:	LawOfDemeter:	Access to field `length` on foreign value `moduleAnnotation.subcomponents()` (degree 1)
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:245:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:260:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:261:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:272:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerAdapter.java:319:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerMethodScanner.java:16:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerMethodScanner.java:16:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerMethodScanner.java:96:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerMethodScanner.java:201:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerMethodScanner.java:202:	LawOfDemeter:	Call to `getGenericReturnType` on foreign value `method` (degree 1)
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\DaggerMethodScanner.java:213:	LawOfDemeter:	Call to `getGenericReturnType` on foreign value `method` (degree 1)
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\Keys.java:30:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\SupportedAnnotations.java:15:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\SupportedAnnotations.java:18:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\src\com\google\inject\daggeradapter\SupportedAnnotations.java:27:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\dagger-adapter\test\com\google\inject\daggeradapter\DaggerAdapterTest.java:201:	AvoidDuplicateLiterals:	The String literal "class" appears 8 times in this file; the first occurrence is on line 201
+.\projects\guice\extensions\dagger-adapter\test\com\google\inject\daggeradapter\IntoMapTest.java:190:	AvoidDuplicateLiterals:	The String literal "hello" appears 4 times in this file; the first occurrence is on line 190
+.\projects\guice\extensions\dagger-adapter\test\com\google\inject\daggeradapter\IntoMapTest.java:195:	AvoidDuplicateLiterals:	The String literal "world" appears 4 times in this file; the first occurrence is on line 195
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\AbstractInjectorGrapher.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\AbstractInjectorGrapher.java:98:	LawOfDemeter:	Call to `getRootKeySetCreator` on foreign value `options` (degree 1)
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\AbstractInjectorGrapher.java:99:	LawOfDemeter:	Call to `getAliasCreator` on foreign value `options` (degree 1)
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\AbstractInjectorGrapher.java:100:	LawOfDemeter:	Call to `getNodeCreator` on foreign value `options` (degree 1)
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\AbstractInjectorGrapher.java:101:	LawOfDemeter:	Call to `getEdgeCreator` on foreign value `options` (degree 1)
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\Node.java:32:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\graphviz\GraphvizEdge.java:28:	DataClass:	The class 'GraphvizEdge' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=16, WMC=17)
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\graphviz\GraphvizGrapher.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\graphviz\GraphvizGrapher.java:134:	LawOfDemeter:	Access to field `INVISIBLE` on foreign value `NodeStyle` (degree 1)
+.\projects\guice\extensions\grapher\src\com\google\inject\grapher\graphviz\GraphvizNode.java:31:	DataClass:	The class 'GraphvizNode' is suspected to be a Data Class (WOC=11.765%, NOPA=0, NOAM=15, WMC=18)
+.\projects\guice\extensions\grapher\test\com\google\inject\grapher\AbstractInjectorGrapherTest.java:122:	LawOfDemeter:	Access to field `ignoreSourceInComparisons` on foreign value `Node` (degree 1)
+.\projects\guice\extensions\grapher\test\com\google\inject\grapher\AbstractInjectorGrapherTest.java:179:	LawOfDemeter:	Access to field `value` on foreign value `wrapper` (degree 1)
+.\projects\guice\extensions\grapher\test\com\google\inject\grapher\ShortNameFactoryTest.java:80:	AvoidDuplicateLiterals:	The String literal "field" appears 4 times in this file; the first occurrence is on line 80
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:87:	LawOfDemeter:	Access to field `returnCollectionTypeConstructor` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:87:	LawOfDemeter:	Call to `newInstance` on foreign value `finderDescriptor.returnCollectionTypeConstructor` (degree 2)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:91:	LawOfDemeter:	Access to field `returnCollectionType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:97:	LawOfDemeter:	Access to field `returnCollectionType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:103:	LawOfDemeter:	Access to field `returnCollectionType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:115:	LawOfDemeter:	Access to field `parameterAnnotations` on foreign value `descriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:142:	LawOfDemeter:	Access to field `parameterAnnotations` on foreign value `descriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:156:	CognitiveComplexity:	The method 'getFinderDescriptor(MethodInvocation)' has a cognitive complexity of 16, current threshold is 15
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:156:	CyclomaticComplexity:	The method 'getFinderDescriptor(MethodInvocation)' has a cyclomatic complexity of 14.
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:167:	LawOfDemeter:	Access to field `returnClass` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:168:	LawOfDemeter:	Access to field `returnType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:205:	LawOfDemeter:	Access to field `parameterAnnotations` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:209:	LawOfDemeter:	Access to field `returnClass` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:210:	LawOfDemeter:	Access to field `returnCollectionType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:212:	LawOfDemeter:	Access to field `returnCollectionTypeConstructor` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:213:	LawOfDemeter:	Access to field `returnCollectionType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:213:	LawOfDemeter:	Call to `getConstructor` on foreign value `finderDescriptor.returnCollectionType` (degree 2)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:214:	LawOfDemeter:	Access to field `returnCollectionTypeConstructor` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaFinderProxy.java:218:	LawOfDemeter:	Access to field `returnCollectionType` on foreign value `finderDescriptor` (degree 1)
+.\projects\guice\extensions\persist\src\com\google\inject\persist\jpa\JpaLocalTxnInterceptor.java:45:	CyclomaticComplexity:	The method 'invoke(MethodInvocation)' has a cyclomatic complexity of 11.
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\ClassLevelManagedLocalTransactionsTest.java:77:	AvoidDuplicateLiterals:	The String literal "from JpaTestEntity where text = :text" appears 4 times in this file; the first occurrence is on line 77
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\ClassLevelManagedLocalTransactionsTest.java:78:	AvoidDuplicateLiterals:	The String literal "text" appears 4 times in this file; the first occurrence is on line 78
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\EntityManagerPerRequestProvisionTest.java:106:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\JpaParentTestEntity.java:33:	DataClass:	The class 'JpaParentTestEntity' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\JpaTestEntity.java:48:	CyclomaticComplexity:	The method 'equals(Object)' has a cyclomatic complexity of 12.
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\ManagedLocalTransactionsAcrossRequestTest.java:67:	AvoidDuplicateLiterals:	The String literal "from JpaTestEntity where text = :text" appears 5 times in this file; the first occurrence is on line 67
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\ManagedLocalTransactionsAcrossRequestTest.java:68:	AvoidDuplicateLiterals:	The String literal "text" appears 5 times in this file; the first occurrence is on line 68
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\ManagedLocalTransactionsTest.java:68:	AvoidDuplicateLiterals:	The String literal "from JpaTestEntity where text = :text" appears 6 times in this file; the first occurrence is on line 68
+.\projects\guice\extensions\persist\test\com\google\inject\persist\jpa\ManagedLocalTransactionsTest.java:69:	AvoidDuplicateLiterals:	The String literal "text" appears 6 times in this file; the first occurrence is on line 69
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ContinuingHttpServletRequest.java:100:	MethodReturnsInternalArray:	Returning 'cookies' may expose an internal array.
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ContinuingHttpServletRequest.java:121:	AvoidDuplicateLiterals:	The String literal "Cannot modify cookies on a continued request" appears 7 times in this file; the first occurrence is on line 121
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\FilterChainInvocation.java:45:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\GuiceFilter.java:65:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\GuiceFilter.java:71:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\GuiceFilter.java:128:	LawOfDemeter:	Call to `getOriginalRequest` on foreign value `previous` (degree 1)
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\GuiceServletContextListener.java:43:	LawOfDemeter:	Access to field `servletContext` on foreign value `GuiceFilter` (degree 1)
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletDefinition.java:198:	CognitiveComplexity:	The method 'doService(ServletRequest, ServletResponse)' has a cognitive complexity of 29, current threshold is 15
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletDefinition.java:198:	NPathComplexity:	The method 'doService(ServletRequest, ServletResponse)' has an NPath complexity of 396, current threshold is 200
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletDefinition.java:210:	CognitiveComplexity:	The method 'getPathInfo()' has a cognitive complexity of 15, current threshold is 15
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:63:	CognitiveComplexity:	The method 'scope(Key<T>, Provider<T>)' has a cognitive complexity of 37, current threshold is 15
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:67:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:74:	CognitiveComplexity:	The method 'get()' has a cognitive complexity of 26, current threshold is 15
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:74:	CyclomaticComplexity:	The method 'get()' has a cyclomatic complexity of 12.
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:85:	LawOfDemeter:	Access to field `map` on foreign value `context` (degree 1)
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:85:	LawOfDemeter:	Call to `get` on foreign value `context.map` (degree 2)
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:88:	AvoidDeeplyNestedIfStmts:	Deeply nested if..then statements are hard to read
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:92:	AvoidDeeplyNestedIfStmts:	Deeply nested if..then statements are hard to read
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:96:	LawOfDemeter:	Access to field `map` on foreign value `context` (degree 1)
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletScopes.java:366:	LawOfDemeter:	Access to field `map` on foreign value `context` (degree 1)
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletUtils.java:115:	CognitiveComplexity:	The method 'lenientDecode(String, Charset, boolean)' has a cognitive complexity of 27, current threshold is 15
+.\projects\guice\extensions\servlet\src\com\google\inject\servlet\ServletUtils.java:115:	CyclomaticComplexity:	The method 'lenientDecode(String, Charset, boolean)' has a cyclomatic complexity of 14.
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ContextPathTest.java:146:	AvoidDuplicateLiterals:	The String literal "/bar/" appears 5 times in this file; the first occurrence is on line 146
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ContextPathTest.java:148:	AvoidDuplicateLiterals:	The String literal "/foo/xxx" appears 5 times in this file; the first occurrence is on line 148
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ContextPathTest.java:150:	AvoidDuplicateLiterals:	The String literal "/xxx" appears 7 times in this file; the first occurrence is on line 150
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ContextPathTest.java:180:	AvoidDuplicateLiterals:	The String literal "/webtest" appears 12 times in this file; the first occurrence is on line 180
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\EdslTest.java:70:	AvoidDuplicateLiterals:	The String literal "/person/[0-9]*" appears 7 times in this file; the first occurrence is on line 70
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:77:	LawOfDemeter:	Access to field `currentCount` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:77:	LawOfDemeter:	Access to field `otherCount` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:82:	AvoidDuplicateLiterals:	The String literal "/class" appears 4 times in this file; the first occurrence is on line 82
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:83:	AvoidDuplicateLiterals:	The String literal "/class/2" appears 4 times in this file; the first occurrence is on line 83
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:85:	AvoidDuplicateLiterals:	The String literal "/key" appears 4 times in this file; the first occurrence is on line 85
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:86:	AvoidDuplicateLiterals:	The String literal "foo" appears 24 times in this file; the first occurrence is on line 86
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:90:	AvoidDuplicateLiterals:	The String literal "/key/2" appears 4 times in this file; the first occurrence is on line 90
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:94:	AvoidDuplicateLiterals:	The String literal "/instance" appears 4 times in this file; the first occurrence is on line 94
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:95:	AvoidDuplicateLiterals:	The String literal "/instance/2" appears 4 times in this file; the first occurrence is on line 95
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:97:	AvoidDuplicateLiterals:	The String literal "/class/keyvalues" appears 4 times in this file; the first occurrence is on line 97
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:99:	AvoidDuplicateLiterals:	The String literal "key" appears 36 times in this file; the first occurrence is on line 99
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:99:	AvoidDuplicateLiterals:	The String literal "value" appears 36 times in this file; the first occurrence is on line 99
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:102:	AvoidDuplicateLiterals:	The String literal "/class/keyvalues/2" appears 4 times in this file; the first occurrence is on line 102
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:107:	AvoidDuplicateLiterals:	The String literal "/key/keyvalues" appears 4 times in this file; the first occurrence is on line 107
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:112:	AvoidDuplicateLiterals:	The String literal "/key/keyvalues/2" appears 4 times in this file; the first occurrence is on line 112
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:117:	AvoidDuplicateLiterals:	The String literal "/instance/keyvalues" appears 4 times in this file; the first occurrence is on line 117
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:119:	AvoidDuplicateLiterals:	The String literal "/instance/keyvalues/2" appears 4 times in this file; the first occurrence is on line 119
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:120:	AvoidDuplicateLiterals:	The String literal "/class[0-9]" appears 4 times in this file; the first occurrence is on line 120
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:121:	AvoidDuplicateLiterals:	The String literal "/class[0-9]/2" appears 4 times in this file; the first occurrence is on line 121
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:123:	AvoidDuplicateLiterals:	The String literal "/key[0-9]" appears 4 times in this file; the first occurrence is on line 123
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:128:	AvoidDuplicateLiterals:	The String literal "/key[0-9]/2" appears 4 times in this file; the first occurrence is on line 128
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:132:	AvoidDuplicateLiterals:	The String literal "/instance[0-9]" appears 4 times in this file; the first occurrence is on line 132
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:133:	AvoidDuplicateLiterals:	The String literal "/instance[0-9]/2" appears 4 times in this file; the first occurrence is on line 133
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:135:	AvoidDuplicateLiterals:	The String literal "/class[0-9]/keyvalues" appears 4 times in this file; the first occurrence is on line 135
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:140:	AvoidDuplicateLiterals:	The String literal "/class[0-9]/keyvalues/2" appears 4 times in this file; the first occurrence is on line 140
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:145:	AvoidDuplicateLiterals:	The String literal "/key[0-9]/keyvalues" appears 4 times in this file; the first occurrence is on line 145
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:150:	AvoidDuplicateLiterals:	The String literal "/key[0-9]/keyvalues/2" appears 4 times in this file; the first occurrence is on line 150
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:155:	AvoidDuplicateLiterals:	The String literal "/instance[0-9]/keyvalues" appears 4 times in this file; the first occurrence is on line 155
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:157:	AvoidDuplicateLiterals:	The String literal "/instance[0-9]/keyvalues/2" appears 4 times in this file; the first occurrence is on line 157
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:238:	LawOfDemeter:	Access to field `actual` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ExtensionSpiTest.java:239:	LawOfDemeter:	Access to field `actual` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\FilterDefinitionTest.java:67:	LawOfDemeter:	Call to `getConfig` on foreign value `mockFilter` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\FilterDispatchIntegrationTest.java:107:	LawOfDemeter:	Access to field `processedUris` on foreign value `servlet` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\FilterDispatchIntegrationTest.java:108:	LawOfDemeter:	Access to field `processedUris` on foreign value `servlet` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\FilterDispatchIntegrationTest.java:109:	LawOfDemeter:	Access to field `processedUris` on foreign value `servlet` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:47:	AvoidDuplicateLiterals:	The String literal "/index.html" appears 7 times in this file; the first occurrence is on line 47
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:55:	AvoidDuplicateLiterals:	The String literal "/thing/*" appears 7 times in this file; the first occurrence is on line 55
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:55:	AvoidDuplicateLiterals:	The String literal "/thing" appears 10 times in this file; the first occurrence is on line 55
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:84:	AvoidDuplicateLiterals:	The String literal "expected [%s] but was [%s]" appears 5 times in this file; the first occurrence is on line 84
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:108:	AvoidDuplicateLiterals:	The String literal "/path" appears 31 times in this file; the first occurrence is on line 108
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:126:	AvoidDuplicateLiterals:	The String literal "*.thing" appears 4 times in this file; the first occurrence is on line 126
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:215:	AvoidDuplicateLiterals:	The String literal "/(.)*" appears 7 times in this file; the first occurrence is on line 215
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:222:	AvoidDuplicateLiterals:	The String literal "/thing/(.)*" appears 4 times in this file; the first occurrence is on line 222
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDefinitionPathsTest.java:229:	AvoidDuplicateLiterals:	The String literal ".*\\.thing" appears 4 times in this file; the first occurrence is on line 229
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDispatchIntegrationTest.java:85:	AvoidDuplicateLiterals:	The String literal "/index.html" appears 4 times in this file; the first occurrence is on line 85
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletDispatchIntegrationTest.java:224:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:60:	LawOfDemeter:	Access to field `linkedServlets` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:60:	LawOfDemeter:	Access to field `linkedServlets` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:61:	LawOfDemeter:	Access to field `linkedFilters` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:61:	LawOfDemeter:	Access to field `linkedFilters` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:63:	LawOfDemeter:	Access to field `instanceServlets` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:63:	LawOfDemeter:	Access to field `instanceServlets` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:65:	LawOfDemeter:	Access to field `instanceFilters` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletModuleTest.java:65:	LawOfDemeter:	Access to field `instanceFilters` on foreign value `visitor` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletPipelineRequestDispatcherTest.java:245:	AvoidDuplicateLiterals:	The String literal "the.server" appears 4 times in this file; the first occurrence is on line 245
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletPipelineRequestDispatcherTest.java:248:	AvoidDuplicateLiterals:	The String literal "/new-uri" appears 8 times in this file; the first occurrence is on line 248
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletScopesTest.java:90:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletScopesTest.java:156:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletScopesTest.java:189:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletTest.java:95:	AvoidDuplicateLiterals:	The String literal "foo" appears 5 times in this file; the first occurrence is on line 95
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletTest.java:169:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletUtilsTest.java:19:	AvoidDuplicateLiterals:	The String literal "/test.html" appears 9 times in this file; the first occurrence is on line 19
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\ServletUtilsTest.java:19:	AvoidDuplicateLiterals:	The String literal "/a_context_path" appears 4 times in this file; the first occurrence is on line 19
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:86:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:118:	LawOfDemeter:	Access to field `object` on foreign value `data` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:119:	LawOfDemeter:	Access to field `scoper` on foreign value `data` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:123:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:127:	LawOfDemeter:	Access to field `scoper` on foreign value `data` (degree 1)
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:152:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:182:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:189:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\TransferRequestIntegrationTest.java:204:	LooseCoupling:	Avoid using implementation types like 'ImmutableMap'; use the interface instead
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\UriPatternTypeTest.java:27:	AvoidDuplicateLiterals:	The String literal "/foo/asdf" appears 4 times in this file; the first occurrence is on line 27
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\UriPatternTypeTest.java:28:	AvoidDuplicateLiterals:	The String literal "/foo/asdf?val=1" appears 4 times in this file; the first occurrence is on line 28
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\UriPatternTypeTest.java:31:	AvoidDuplicateLiterals:	The String literal "/asdf" appears 4 times in this file; the first occurrence is on line 31
+.\projects\guice\extensions\servlet\test\com\google\inject\servlet\VarargsServletDispatchIntegrationTest.java:65:	AvoidDuplicateLiterals:	The String literal "/index.html" appears 5 times in this file; the first occurrence is on line 65
+.\projects\guice\extensions\spring\test\com\google\inject\spring\SpringIntegrationTest.java:40:	AvoidDuplicateLiterals:	The String literal "singleton" appears 4 times in this file; the first occurrence is on line 40
+.\projects\guice\extensions\spring\test\com\google\inject\spring\SpringIntegrationTest.java:44:	AvoidDuplicateLiterals:	The String literal "prototype" appears 4 times in this file; the first occurrence is on line 44
+.\projects\guice\extensions\struts2\test\com\google\inject\struts2\Struts2FactoryTest.java:76:	LawOfDemeter:	Call to `getInjector` on foreign value `testListener` (degree 1)
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:110:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:111:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:193:	DataClass:	The class 'BoundFieldInfo' is suspected to be a Data Class (WOC=20.000%, NOPA=0, NOAM=4, WMC=27)
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:380:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:384:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:475:	LawOfDemeter:	Access to field `fieldType` on foreign value `fieldInfo` (degree 1)
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:476:	LawOfDemeter:	Access to field `bindAnnotation` on foreign value `fieldInfo` (degree 1)
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:490:	LawOfDemeter:	Access to field `bindAnnotation` on foreign value `fieldInfo` (degree 1)
+.\projects\guice\extensions\testlib\src\com\google\inject\testing\fieldbinder\BoundFieldModule.java:517:	LawOfDemeter:	Access to field `fieldType` on foreign value `fieldInfo` (degree 1)
+.\projects\guice\extensions\testlib\test\com\google\inject\testing\fieldbinder\BoundFieldModuleTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\testlib\test\com\google\inject\testing\fieldbinder\BoundFieldModuleTest.java:48:	GodClass:	Possible God Class (WMC=76, ATFD=40, TCC=0.000%)
+.\projects\guice\extensions\testlib\test\com\google\inject\testing\fieldbinder\BoundFieldModuleTest.java:264:	AvoidDuplicateLiterals:	The String literal "foo" appears 4 times in this file; the first occurrence is on line 264
+.\projects\guice\extensions\testlib\test\com\google\inject\testing\fieldbinder\BoundFieldModuleTest.java:943:	LawOfDemeter:	Access to field `foo` on foreign value `asProvider` (degree 1)
+.\projects\guice\extensions\testlib\test\com\google\inject\testing\fieldbinder\BoundFieldModuleTest.java:945:	LawOfDemeter:	Access to field `foo` on foreign value `asProvider` (degree 1)
+.\projects\guice\extensions\testlib\test\com\google\inject\testing\fieldbinder\BoundFieldModuleTest.java:972:	LawOfDemeter:	Access to field `anIntProvider` on foreign value `instance` (degree 1)
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\CheckedProviderMethod.java:48:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\CheckedProviderMethod.java:62:	LooseCoupling:	Avoid using implementation types like 'ImmutableSet'; use the interface instead
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\CheckedProviderMethodsModule.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\CheckedProviders.java:195:	CyclomaticComplexity:	The method 'checkThrowable(Class<? extends CheckedProvider<?>>, Class<? extends Throwable>)' has a cyclomatic complexity of 10.
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\ThrowingProviderBinder.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\ThrowingProviderBinder.java:281:	CognitiveComplexity:	The method 'toInternal(Key<? extends CheckedProvider<?>>)' has a cognitive complexity of 22, current threshold is 15
+.\projects\guice\extensions\throwingproviders\src\com\google\inject\throwingproviders\ThrowingProviderBinder.java:345:	CognitiveComplexity:	The method 'createResultProvider(Key<? extends CheckedProvider<?>>, Provider<? extends CheckedProvider<?>>)' has a cognitive complexity of 19, current threshold is 15
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:17:	CouplingBetweenObjects:	High amount of different objects as members denotes a high coupling
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:71:	GodClass:	Possible God Class (WMC=101, ATFD=126, TCC=18.368%)
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:71:	CyclomaticComplexity:	The class 'CheckedProviderTest' has a total cyclomatic complexity of 101 (highest 3).
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:121:	AvoidDuplicateLiterals:	The String literal "unused" appears 25 times in this file; the first occurrence is on line 121
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:534:	AvoidDuplicateLiterals:	The String literal " may not declare any new methods, but declared " appears 4 times in this file; the first occurrence is on line 534
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:761:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:762:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:791:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:792:	MutableStaticState:	Do not use non-final non-private static fields
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:969:	LooseCoupling:	Avoid using implementation types like 'ThrowingArrayList'; use the interface instead
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:1003:	AvoidDuplicateLiterals:	The String literal " is not compatible with the exceptions ([" appears 8 times in this file; the first occurrence is on line 1’003
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:1007:	AvoidDuplicateLiterals:	The String literal "]) declared in the CheckedProvider interface (" appears 8 times in this file; the first occurrence is on line 1’007
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:1063:	AvoidDuplicateLiterals:	The String literal "boo!" appears 8 times in this file; the first occurrence is on line 1’063
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProviderTest.java:1263:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\CheckedProvidersTest.java:89:	AvoidDuplicateLiterals:	The String literal "Expected an exception to be thrown" appears 5 times in this file; the first occurrence is on line 89
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:17:	ExcessiveImports:	A high number of imports can indicate a high degree of coupling within an object.
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:65:	GodClass:	Possible God Class (WMC=69, ATFD=80, TCC=21.142%)
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:102:	AvoidDuplicateLiterals:	The String literal "unused" appears 20 times in this file; the first occurrence is on line 102
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:459:	AvoidDuplicateLiterals:	The String literal " may not declare any new methods, but declared " appears 4 times in this file; the first occurrence is on line 459
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:740:	AvoidDuplicateLiterals:	The String literal " is not compatible with the exceptions ([" appears 4 times in this file; the first occurrence is on line 740
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:742:	AvoidDuplicateLiterals:	The String literal "]) declared in the CheckedProvider interface (" appears 4 times in this file; the first occurrence is on line 742
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:762:	AvoidDuplicateLiterals:	The String literal "boo!" appears 4 times in this file; the first occurrence is on line 762
+.\projects\guice\extensions\throwingproviders\test\com\google\inject\throwingproviders\ThrowingProviderTest.java:857:	LooseCoupling:	Avoid using implementation types like 'ImmutableList'; use the interface instead

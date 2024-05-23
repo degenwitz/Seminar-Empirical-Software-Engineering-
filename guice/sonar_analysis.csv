@@ -1,0 +1,979 @@
+class,smell,description
+/core/src/com/google/inject/internal/MissingImplementationError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MissingImplementationError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/BindingAlreadySetError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/BindingAlreadySetError.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/ConfigurationException.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/Errors.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S1948,"Make ""suggestionsSupplier"" transient or serializable."
+/core/src/com/google/inject/internal/MissingImplementationError.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/MapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/MapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/MapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/Multibinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/OptionalBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/OptionalBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/multibindings/OptionalBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/matcher/Matcher.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/matcher/Matcher.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/util/Providers.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/util/Providers.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/Errors.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/Errors.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/DefaultConstructionProxyFactory.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/testlib/src/com/google/inject/testing/throwingproviders/CheckedProviderSubject.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ConstantBindingBuilderImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ConstructorInjectorStore.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/Initializer.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/LinkedProviderBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ProviderMethod.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ProviderMethod.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/spi/Elements.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviderMethodsModule.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/DefaultConstructionProxyFactory.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/CycleDetectingLock.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/Initializer.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/SingletonScope.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/spi/Dependency.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/spi/Elements.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/spi/Elements.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedConstructor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/util/Providers.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ProvisionListenerCallbackStore.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/Scoping.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/AbstractBindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/servlet/src/com/google/inject/servlet/FiltersModuleBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/servlet/src/com/google/inject/servlet/ServletsModuleBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/MembersInjectorStore.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InstanceBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InstanceBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/LinkedBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/LinkedBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/LinkedProviderBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/LinkedProviderBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ProviderInstanceBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/ProviderInstanceBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/UntargettedBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/UntargettedBindingImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/servlet/src/com/google/inject/servlet/FiltersModuleBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/servlet/src/com/google/inject/servlet/ServletsModuleBuilder.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/servlet/src/com/google/inject/servlet/GuiceFilter.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/Key.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/TypeLiteral.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/TypeLiteral.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/TypeLiteral.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/matcher/Matchers.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedConstructor.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/spring/src/com/google/inject/spring/SpringIntegration.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/spring/src/com/google/inject/spring/SpringIntegration.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/extensions/jndi/src/com/google/inject/jndi/JndiIntegration.java,java:S2293,"Replace the type specification in this constructor call with the diamond operator (""<>"")."
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/servlet/src/com/google/inject/servlet/ServletDefinition.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/aop/MethodPartition.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/servlet/src/com/google/inject/servlet/ServletUtils.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/util/Modules.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/PackageNameCompressor.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/ProxyFactory.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/aop/ImmutableStringTrie.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/spi/Elements.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/ProviderMethodsModule.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/MembersInjectorImpl.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/TypeLiteral.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/extensions/servlet/src/com/google/inject/servlet/ServletScopes.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/MoreTypes.java,java:S3776,Refactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/internal/aop/MethodPartition.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/internal/ProviderMethodsModule.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/Scopes.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/Scopes.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/util/Modules.java,java:S135,Reduce the total number of break and continue statements in this loop to use at most one.
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S1905,"Remove this unnecessary cast to ""Key""."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1905,"Remove this unnecessary cast to ""Key""."
+/core/src/com/google/inject/spi/DefaultBindingTargetVisitor.java,java:S1905,"Remove this unnecessary cast to ""Key""."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/util/Providers.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/MissingImplementationError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/ScopeNotFoundError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/BindingAlreadySetError.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/InternalErrorDetail.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/InternalProviderInstanceBindingImpl.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/internal/ProviderMethod.java,java:S2160,"Override the ""equals"" method in this class."
+/core/src/com/google/inject/ProvidedBy.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProviderInstanceBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProviderKeyBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProviderKeyBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorJitBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorJitBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorJitBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/Message.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/Keys.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Injector.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/MembersInjectorStore.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MultibinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/OptionalBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/Annotations.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/Scoping.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Key.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaPersistModule.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaPersistModule.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InternalContext.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ModuleAnnotatedMethodScanner.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/OptionalBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/OptionalBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProvideUtils.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProvisionListenerBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProvisionListenerBinding.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/grapher/src/com/google/inject/grapher/NodeId.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/grapher/src/com/google/inject/grapher/RootKeySetCreator.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviderMethodsModule.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedMethod.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedMethod.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedMethod.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MapBinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MultibinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/multibindings/MultibinderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/servlet/src/com/google/inject/servlet/LinkedFilterBinding.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/servlet/src/com/google/inject/servlet/LinkedServletBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/BindingCollector.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/BindingCollector.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Injector.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Injector.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/ConstructorInjectorStore.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Key.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/ExposureBuilder.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/TypeListenerBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/TypeListenerBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/PrivateElements.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/Parameter.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProviderBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/BindingImpl.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/Dependency.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/HasDependencies.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/LinkedKeyBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/ProviderInstanceBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/ProviderMethodsModule.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/internal/InjectorBindingData.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/InterceptorBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/InterceptorBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/TypeConverterBinding.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/spi/TypeConverterBinding.java,java:S1452,Remove usage of generic wildcard type.
+/extensions/assistedinject/src/com/google/inject/assistedinject/Parameter.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Key.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Injector.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Injector.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/TypeLiteral.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Key.java,java:S1452,Remove usage of generic wildcard type.
+/core/src/com/google/inject/Provider.java,java:S2176,Rename this interface.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S1871,This branch's code block is the same as the block for the branch on line 124.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S1871,This branch's code block is the same as the block for the branch on line 124.
+/core/src/com/google/inject/internal/aop/AnonymousClassDefiner.java,java:S1191,Use classes from the Java API instead of Sun classes.
+/core/src/com/google/inject/internal/aop/HiddenClassDefiner.java,java:S1191,Use classes from the Java API instead of Sun classes.
+/core/src/com/google/inject/internal/aop/UnsafeGetter.java,java:S1191,Use classes from the Java API instead of Sun classes.
+/core/src/com/google/inject/internal/aop/UnsafeGetter.java,java:S108,Either remove or fill this block of code.
+/core/src/com/google/inject/internal/util/LineNumbers.java,java:S108,Either remove or fill this block of code.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S108,Either remove or fill this block of code.
+/core/src/com/google/inject/internal/aop/UnsafeGetter.java,java:S3011,This accessibility update should be removed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S3011,This accessibility update should be removed.
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerAdapter.java,java:S3011,This accessibility update should be removed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/KotlinSupport.java,java:S3011,This accessibility update should be removed.
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S3011,This accessibility update should be removed.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/ProviderMethod.java,java:S3011,This accessibility update should be removed.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviderMethod.java,java:S3011,This accessibility update should be removed.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/DefaultConstructionProxyFactory.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/SingleMethodInjector.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/SingleFieldInjector.java,java:S3011,This accessibility update should be removed.
+/core/src/com/google/inject/internal/SingleFieldInjector.java,java:S3011,This accessibility update should be removed.
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedConstructor.java,java:S3011,This accessibility update should be removed.
+/core/test/com/google/inject/spi/ElementsTest.java,java:S5961,Refactor this method to reduce the number of assertions from 26 to less than 25.
+/core/test/com/google/inject/spi/ElementsTest.java,java:S5961,Refactor this method to reduce the number of assertions from 26 to less than 25.
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/persist/src/com/google/inject/persist/PersistModule.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/internal/TypeConverterBindingProcessor.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/internal/TypeConverterBindingProcessor.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ProviderChecker.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/servlet/src/com/google/inject/servlet/GuiceFilter.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/servlet/src/com/google/inject/servlet/FilterChainInvocation.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/servlet/src/com/google/inject/servlet/FilterChainInvocation.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/servlet/src/com/google/inject/servlet/FilterChainInvocation.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/extensions/jmx/src/com/google/inject/tools/jmx/Manager.java,java:S1874,"Remove this use of ""AbstractMatcher""; it is deprecated."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1659,"Declare ""b"" on a separate line."
+/core/src/com/google/inject/matcher/Matchers.java,java:S1659,"Declare ""b"" on a separate line."
+/core/src/com/google/inject/internal/DelegatingInvocationHandler.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InjectionRequestProcessor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/RealElement.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/DeclaredMembers.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/PackageNameCompressor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/Annotations.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ConstructorInjector.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/spi/Elements.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/grapher/src/com/google/inject/grapher/graphviz/GraphvizGrapher.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/persist/src/com/google/inject/persist/PersistService.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaLocalTxnInterceptor.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/servlet/src/com/google/inject/servlet/ManagedServletPipeline.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MoreTypes.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/spi/BindingSourceRestriction.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/util/Modules.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/util/Modules.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/Errors.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/Key.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/SupportedAnnotations.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/Errors.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/Errors.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/Errors.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/Errors.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ExposedKeyFactory.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InternalProvisionException.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/SingleParameterInjector.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ProcessedBindingData.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ConstructionContext.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaLocalTxnInterceptor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/spi/DefaultBindingTargetVisitor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ProvisionListenerCallbackStore.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ProvisionListenerStackCallback.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ProvisionListenerStackCallback.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/ProviderInternalFactory.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MembersInjectorImpl.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/MembersInjectorImpl.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InjectionRequestProcessor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/LookupProcessor.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/LookupProcessor.java,java:S1135,Complete the task associated to this TODO comment.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1135,Complete the task associated to this TODO comment.
+/core/src/com/google/inject/util/Providers.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/util/Modules.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/util/Modules.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/util/Modules.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/util/Modules.java,java:S1133,Do not forget to remove this deprecated code someday.
+/extensions/servlet/src/com/google/inject/servlet/ServletScopes.java,java:S1133,Do not forget to remove this deprecated code someday.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/multibindings/MultibindingsScanner.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/multibindings/MultibindingsScanner.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/multibindings/MultibindingsScanner.java,java:S1133,Do not forget to remove this deprecated code someday.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProvider.java,java:S1133,Do not forget to remove this deprecated code someday.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/spi/ProviderInstanceBinding.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/src/com/google/inject/matcher/AbstractMatcher.java,java:S1133,Do not forget to remove this deprecated code someday.
+/core/test/com/googlecode/guice/GuiceJakartaTck.java,java:S2187,Add some tests to this class.
+/extensions/persist/test/com/google/inject/persist/AllTests.java,java:S2187,Add some tests to this class.
+/core/test/com/google/inject/util/NoopOverrideTest.java,java:S2187,Add some tests to this class.
+/core/test/com/google/inject/spi/ElementApplyToTest.java,java:S2187,Add some tests to this class.
+/extensions/grapher/test/com/google/inject/grapher/AllTests.java,java:S2187,Add some tests to this class.
+/extensions/servlet/test/com/google/inject/servlet/AllTests.java,java:S2187,Add some tests to this class.
+/extensions/jmx/test/com/google/inject/tools/jmx/JmxTest.java,java:S2187,Add some tests to this class.
+/core/test/com/google/inject/AllTests.java,java:S2187,Add some tests to this class.
+/core/test/com/googlecode/guice/JakartaTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BinderTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/persist/test/com/google/inject/persist/jpa/JpaWorkManagerTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/persist/test/com/google/inject/persist/jpa/JpaWorkManagerTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/persist/test/com/google/inject/persist/jpa/JpaWorkManagerTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RestrictedBindingSourceTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/dagger-adapter/test/com/google/inject/daggeradapter/ModuleIncludesTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/googlecode/guice/OSGiContainerTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ScopesTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ScopesTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/persist/test/com/google/inject/persist/jpa/EnsureJpaCanTakeObjectsInPropertiesTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/testlib/test/com/google/inject/testing/fieldbinder/BoundFieldModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/testlib/test/com/google/inject/testing/fieldbinder/BoundFieldModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/util/OverrideModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BindingAnnotationTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RequireAtInjectOnConstructorsTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/servlet/test/com/google/inject/servlet/ServletDefinitionTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/RequestInjectionTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BinderTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/JitBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/util/OverrideModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/util/OverrideModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/util/OverrideModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/util/OverrideModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/persist/test/com/google/inject/persist/EdslTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/DuplicateBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryModuleBuilderTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/JitBindingsTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BindingTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BindingTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ScopesTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/CircularDependencyTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/MembersInjectorTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/MembersInjectorTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/spi/BindingTargetVisitorTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/servlet/test/com/google/inject/servlet/EdslTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ProvisionExceptionTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProviderTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProviderTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProviderTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BindingOrderTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/InjectorTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/BindingTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ModuleTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/InjectorTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ImplicitBindingTest.java,java:S2699,Add at least one assertion to this test case.
+/core/test/com/google/inject/ImplicitBindingTest.java,java:S2699,Add at least one assertion to this test case.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/RequestInjectionTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/persist/test/com/google/inject/persist/jpa/ManagedLocalTransactionsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/persist/test/com/google/inject/persist/jpa/ManagedLocalTransactionsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/persist/test/com/google/inject/persist/jpa/ManagedLocalTransactionsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/persist/test/com/google/inject/persist/jpa/ManagedLocalTransactionsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/ImplicitBindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/Java8LanguageFeatureBindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/dagger-adapter/test/com/google/inject/daggeradapter/IntoMapTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/dagger-adapter/test/com/google/inject/daggeradapter/IntoMapTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ModuleAnnotatedMethodScannerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/subpkg/SubpackageTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/BindingAlreadySetErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/BindingAlreadySetErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/BindingAlreadySetErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/ChildBindingAlreadySetErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/DuplicateElementErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/DuplicateElementErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/DuplicateMapKeyErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/DuplicateMapKeyErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/DuplicateMapKeyErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/ErrorMessagesTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/GenericErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/MissingConstructorErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/MissingConstructorErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/MissingConstructorErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/MissingImplementationErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/MissingImplementationErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/MissingImplementationErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/errors/ScopeNotFoundErrorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/InjectionPointTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/InjectionPointTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/InjectionPointTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/internal/util/LineNumbersTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/internal/util/LineNumbersTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/internal/util/LineNumbersTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/throwingproviders/test/com/google/inject/throwingproviders/ThrowingProviderTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/TypeListenerTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/ParentInjectorTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/test/com/google/inject/BindingTest.java,java:S5778,Refactor the body of this try/catch to have only one invocation possibly throwing a runtime exception.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S6539,Split this “Monster Class” into smaller and more specialized ones to reduce its dependencies on other classes from 21 to the maximum authorized 20 or less.
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S125,This block of commented-out lines of code should be removed.
+/core/src/com/google/inject/internal/aop/MethodPartition.java,java:S125,This block of commented-out lines of code should be removed.
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S125,This block of commented-out lines of code should be removed.
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S125,This block of commented-out lines of code should be removed.
+/core/src/com/google/inject/internal/UntargettedBindingProcessor.java,java:S125,This block of commented-out lines of code should be removed.
+/core/src/com/google/inject/internal/MoreTypes.java,java:S125,This block of commented-out lines of code should be removed.
+/core/src/com/google/inject/internal/InjectionRequestProcessor.java,java:S1481,"Remove this unused ""unused"" local variable."
+/core/src/com/google/inject/internal/InjectionRequestProcessor.java,java:S1854,"Remove this useless assignment to local variable ""unused""."
+/core/src/com/google/inject/internal/BindingAlreadySetError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/ChildBindingAlreadySetError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateMapKeyError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/Messages.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/Messages.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/Messages.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/Messages.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingConstructorError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MissingImplementationError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/ScopeNotFoundError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/Errors.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/DuplicateElementError.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/GenericErrorDetail.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/ErrorFormatter.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/spi/BindingSourceRestriction.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/aop/UnsafeClassDefiner.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/aop/UnsafeClassDefiner.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/Messages.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SingletonScope.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/MessageProcessor.java,java:S3457,%n should be used in place of \n to produce the platform-specific line separator.
+/core/src/com/google/inject/internal/SourceFormatter.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/aop/Enhancer.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/aop/Enhancer.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/aop/FastClass.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/aop/FastClass.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/TypeLiteral.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ProviderChecker.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/extensions/servlet/src/com/google/inject/servlet/ContinuingHttpServletRequest.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/extensions/grapher/src/com/google/inject/grapher/graphviz/GraphvizGrapher.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/extensions/grapher/src/com/google/inject/grapher/graphviz/GraphvizGrapher.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/BindingProcessor.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S1192,"Define a constant instead of duplicating this literal ""%s%s
+"" 6 times."
+/core/src/com/google/inject/internal/util/LineNumbers.java,java:S3010,"Remove this assignment of ""alreadyLoggedReadingFailure""."
+/extensions/servlet/src/com/google/inject/servlet/ServletDefinition.java,java:S6397,Replace this character class by the character itself.
+/extensions/servlet/test/com/google/inject/servlet/ServletPipelineRequestDispatcherTest.java,java:S6068,"Remove this useless ""eq(...)"" invocation; pass the values directly."
+/extensions/servlet/test/com/google/inject/servlet/ServletPipelineRequestDispatcherTest.java,java:S6068,"Remove this useless ""eq(...)"" invocation; pass the values directly."
+/extensions/servlet/test/com/google/inject/servlet/ServletPipelineRequestDispatcherTest.java,java:S6068,"Remove this useless ""eq(...)"" invocation; pass the values directly."
+/extensions/assistedinject/test/com/google/inject/assistedinject/subpkg/SubpackageTestPrivateFallbackOnly.java,java:S3577,"Rename class ""SubpackageTestPrivateFallbackOnly"" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'"
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1141,Extract this nested try block into a separate method.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1141,Extract this nested try block into a separate method.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1141,Extract this nested try block into a separate method.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1141,Extract this nested try block into a separate method.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1141,Extract this nested try block into a separate method.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1141,Extract this nested try block into a separate method.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S119,Rename this generic name to match the regular expression '^[A-Z][0-9]?$'.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S119,Rename this generic name to match the regular expression '^[A-Z][0-9]?$'.
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S119,Rename this generic name to match the regular expression '^[A-Z][0-9]?$'.
+/core/src/com/google/inject/internal/CycleDetectingLock.java,java:S119,Rename this generic name to match the regular expression '^[A-Z][0-9]?$'.
+/core/src/com/google/inject/internal/CycleDetectingLock.java,java:S119,Rename this generic name to match the regular expression '^[A-Z][0-9]?$'.
+/core/src/com/google/inject/internal/CycleDetectingLock.java,java:S119,Rename this generic name to match the regular expression '^[A-Z][0-9]?$'.
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/spi/Elements.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/CycleDetectingLock.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/MembersInjectorStore.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/MembersInjectorImpl.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/RealMultibinder.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/spi/Elements.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/internal/PrivateElementsImpl.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/servlet/src/com/google/inject/servlet/ManagedFilterPipeline.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/servlet/src/com/google/inject/servlet/ManagedServletPipeline.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/servlet/src/com/google/inject/servlet/FilterDefinition.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/servlet/src/com/google/inject/servlet/GuiceFilter.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/servlet/src/com/google/inject/servlet/ServletDefinition.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/assistedinject/src/com/google/inject/assistedinject/Parameter.java,java:S1117,"Rename ""providers"" which hides the field declared at line 328."
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryModuleBuilder.java,java:S2326,T is not used in the method.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S2786,"Remove this redundant ""static"" qualifier; nested enum types are implicitly static."
+/core/src/com/google/inject/RestrictedBindingSource.java,java:S2786,"Remove this redundant ""static"" qualifier; nested enum types are implicitly static."
+/extensions/servlet/src/com/google/inject/servlet/UriPatternType.java,java:S2786,"Remove this redundant ""static"" qualifier; nested enum types are implicitly static."
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S2786,"Remove this redundant ""static"" qualifier; nested enum types are implicitly static."
+/core/src/com/google/inject/Key.java,java:S2786,"Remove this redundant ""static"" qualifier; nested enum types are implicitly static."
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S1116,Remove this empty statement.
+/core/src/com/google/inject/internal/KotlinSupport.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/util/Modules.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/ProvisionListenerCallbackStore.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/AbstractBindingProcessor.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/InterceptorStackCallback.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/ConstructorInjectorStore.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/MembersInjectorStore.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/InjectorShell.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/MoreTypes.java,java:S3398,"Move this method into ""KotlinSupportHolder""."
+/core/src/com/google/inject/internal/KotlinSupport.java,java:S4276,Refactor this code to use the more specialised Functional Interface 'IntPredicate'
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S4276,Refactor this code to use the more specialised Functional Interface 'IntPredicate'
+/core/test/com/google/inject/internal/PackageNameCompressorTest.java,java:S5976,Replace these 5 tests with a single Parameterized one.
+/core/test/com/google/inject/internal/PackageNameCompressorTest.java,java:S5976,Replace these 5 tests with a single Parameterized one.
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/Errors.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/Errors.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/Errors.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/InternalProvisionException.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/ProviderToInternalFactoryAdapter.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/spi/Elements.java,java:S1488,"Immediately throw this expression instead of assigning it to the temporary variable ""exception""."
+/core/src/com/google/inject/internal/Errors.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/spi/ErrorDetail.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/internal/ProvisionListenerStackCallback.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/internal/util/LineNumbers.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/internal/MembersInjectorImpl.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/spi/DefaultElementVisitor.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/spi/DefaultBindingTargetVisitor.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/internal/util/LineNumbers.java,java:S1172,"Remove this unused method parameter ""linkedKey""."
+/core/src/com/google/inject/internal/RealMapBinder.java,java:S3626,Remove this redundant jump.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S3626,Remove this redundant jump.
+/core/src/com/google/inject/internal/MissingImplementationErrorHints.java,java:S2864,"Iterate over the ""entrySet"" instead of the ""keySet""."
+/core/src/com/google/inject/internal/util/ContinuousStopwatch.java,java:S2629,Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.
+/core/src/com/google/inject/spi/BindingSourceRestriction.java,java:S2629,Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.
+/core/src/com/google/inject/internal/aop/ChildClassDefiner.java,java:S2629,Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.
+/core/src/com/google/inject/spi/BindingSourceRestriction.java,java:S3416,"Update this logger to use ""BindingSourceRestriction.class""."
+/core/src/com/google/inject/internal/InternalProvisionException.java,java:S3416,"Update this logger to use ""BindingSourceRestriction.class""."
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S3416,"Update this logger to use ""BindingSourceRestriction.class""."
+/core/src/com/google/inject/internal/MessageProcessor.java,java:S3416,"Update this logger to use ""BindingSourceRestriction.class""."
+/core/src/com/google/inject/internal/aop/AbstractGlueGenerator.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/aop/ClassDefiner.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/Annotations.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/Annotations.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/Annotations.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/jmx/src/com/google/inject/tools/jmx/Manager.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProvider.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/DelegatingInvocationHandler.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/DelegatingInvocationHandler.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/TypeConverterBindingProcessor.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/TypeConverterBindingProcessor.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/TypeConverterBindingProcessor.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/assistedinject/src/com/google/inject/assistedinject/AssistedConstructor.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/jndi/src/com/google/inject/jndi/JndiIntegration.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/util/StackTraceElements.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/extensions/jmx/src/com/google/inject/tools/jmx/Manager.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/TypeLiteral.java,java:S112,Define and throw a dedicated exception instead of using a generic one.
+/core/src/com/google/inject/internal/aop/ChildClassDefiner.java,java:S5738,"Remove this call to a deprecated class, it has been marked for removal."
+/core/src/com/google/inject/internal/aop/UnsafeClassDefiner.java,java:S5738,"Remove this call to a deprecated class, it has been marked for removal."
+/core/src/com/google/inject/internal/aop/UnsafeClassDefiner.java,java:S5738,"Remove this call to a deprecated class, it has been marked for removal."
+/core/src/com/google/inject/internal/InternalFlags.java,java:S5738,"Remove this call to a deprecated class, it has been marked for removal."
+/core/src/com/google/inject/internal/aop/ImmutableStringTrie.java,java:S3400,Remove this method and declare a constant for this value.
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerAdapter.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerAdapter.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerAdapter.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerMethodScanner.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerMethodScanner.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/DaggerMethodScanner.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ProviderChecker.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ThrowingProviderBinder.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/core/src/com/google/inject/internal/RealOptionalBinder.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S4738,"Use ""java.util.function.Predicate"" instead."
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/SupportedAnnotations.java,java:S1118,Add a private constructor to hide the implicit public one.
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/Annotations.java,java:S1118,Add a private constructor to hide the implicit public one.
+/extensions/dagger-adapter/src/com/google/inject/daggeradapter/Keys.java,java:S1118,Add a private constructor to hide the implicit public one.
+/core/src/com/google/inject/internal/util/Classes.java,java:S1118,Add a private constructor to hide the implicit public one.
+/core/src/com/google/inject/internal/Initializables.java,java:S1118,Add a private constructor to hide the implicit public one.
+/core/src/com/google/inject/spi/Elements.java,java:S1118,Add a private constructor to hide the implicit public one.
+/extensions/testlib/src/com/google/inject/testing/throwingproviders/CheckedProviderSubject.java,java:S1604,Make this anonymous inner class a lambda
+/core/src/com/google/inject/internal/InternalFlags.java,java:S1604,Make this anonymous inner class a lambda
+/core/src/com/google/inject/internal/UntargettedBindingImpl.java,java:S1604,Make this anonymous inner class a lambda
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S1604,Make this anonymous inner class a lambda
+/extensions/testlib/src/com/google/inject/testing/fieldbinder/BoundFieldModule.java,java:S1604,Make this anonymous inner class a lambda
+/extensions/servlet/src/com/google/inject/servlet/ServletScopes.java,java:S1604,Make this anonymous inner class a lambda
+/extensions/servlet/src/com/google/inject/servlet/ServletScopes.java,java:S1604,Make this anonymous inner class a lambda
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1604,Make this anonymous inner class a lambda
+/core/src/com/google/inject/internal/Messages.java,java:S6548,A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S6548,A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/ProviderChecker.java,java:S6548,A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.
+/core/src/com/google/inject/Key.java,java:S6548,A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.
+/core/test/com/google/inject/ProvisionListenerTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/Asserts.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/KeyTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/internal/CycleDetectingLockTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/spi/MessageTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/spi/MessageTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/internal/OptionalBinderTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/internal/OptionalBinderTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/internal/OptionalBinderTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/internal/OptionalBinderTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/spi/ProviderMethodsTest.java,java:S5785,Use assertNotEquals instead.
+/extensions/servlet/test/com/google/inject/servlet/ContinuingRequestIntegrationTest.java,java:S5785,Use assertNotEquals instead.
+/extensions/servlet/test/com/google/inject/servlet/ScopeRequestIntegrationTest.java,java:S5785,Use assertNotEquals instead.
+/extensions/servlet/test/com/google/inject/servlet/ScopeRequestIntegrationTest.java,java:S5785,Use assertNotEquals instead.
+/extensions/servlet/test/com/google/inject/servlet/ScopeRequestIntegrationTest.java,java:S5785,Use assertNotEquals instead.
+/extensions/servlet/test/com/google/inject/servlet/FilterDefinitionTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/TypeLiteralTypeResolutionTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/TypeLiteralTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/matcher/MatcherTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/TypeLiteralTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/TypeLiteralTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/TypeLiteralTest.java,java:S5785,Use assertNotEquals instead.
+/core/test/com/google/inject/TypeLiteralTest.java,java:S5785,Use assertNotEquals instead.
+/extensions/servlet/src/com/google/inject/servlet/GuiceFilter.java,java:S2696,"Make the enclosing method ""static"" or remove this set."
+/extensions/servlet/src/com/google/inject/servlet/GuiceServletContextListener.java,java:S2696,"Make the enclosing method ""static"" or remove this set."
+/core/src/com/google/inject/internal/Annotations.java,java:S1130,"Remove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body."
+/core/src/com/google/inject/internal/ConstructorBindingImpl.java,java:S107,"Method has 8 parameters, which is greater than 7 authorized."
+/extensions/assistedinject/src/com/google/inject/assistedinject/FactoryProvider2.java,java:S107,"Method has 8 parameters, which is greater than 7 authorized."
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviderMethod.java,java:S107,"Method has 8 parameters, which is greater than 7 authorized."
+/core/src/com/google/inject/internal/InternalContext.java,java:S3824,"Replace this ""Map.get()"" and condition with a call to ""Map.computeIfAbsent()""."
+/core/src/com/google/inject/internal/util/LineNumbers.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/extensions/servlet/src/com/google/inject/servlet/ServletModule.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/extensions/servlet/src/com/google/inject/servlet/DefaultFilterPipeline.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/extensions/servlet/src/com/google/inject/servlet/DefaultFilterPipeline.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/core/src/com/google/inject/spi/Elements.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/core/src/com/google/inject/spi/Elements.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/core/src/com/google/inject/util/Modules.java,java:S1186,"Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation."
+/core/src/com/google/inject/matcher/Matchers.java,java:S3740,Provide the parametrized type for this generic.
+/core/src/com/google/inject/matcher/Matchers.java,java:S3740,Provide the parametrized type for this generic.
+/core/src/com/google/inject/matcher/Matchers.java,java:S3740,Provide the parametrized type for this generic.
+/core/src/com/google/inject/matcher/Matchers.java,java:S3740,Provide the parametrized type for this generic.
+/core/src/com/google/inject/matcher/Matchers.java,java:S3740,Provide the parametrized type for this generic.
+/core/src/com/google/inject/matcher/Matchers.java,java:S3740,Provide the parametrized type for this generic.
+/extensions/jmx/src/com/google/inject/tools/jmx/Manager.java,java:S106,Replace this use of System.err by a logger.
+/extensions/jmx/src/com/google/inject/tools/jmx/Manager.java,java:S106,Replace this use of System.err by a logger.
+/extensions/jmx/src/com/google/inject/tools/jmx/Manager.java,java:S106,Replace this use of System.err by a logger.
+/extensions/servlet/src/com/google/inject/servlet/ServletScopes.java,java:S116,"Rename this field ""REQUEST_CONTEXT_KEYS"" to match the regular expression '^[a-z][a-zA-Z0-9]*$'."
+/core/src/com/google/inject/spi/InjectionPoint.java,java:S6541,"A ""Brain Method"" was detected. Refactor it to reduce at least one of the following metrics: LOC from 91 to 64, Complexity from 24 to 14, Nesting Level from 7 to 2, Number of Variables from 20 to 6."
+/core/src/com/google/inject/internal/ProviderMethodsModule.java,java:S6541,"A ""Brain Method"" was detected. Refactor it to reduce at least one of the following metrics: LOC from 91 to 64, Complexity from 24 to 14, Nesting Level from 7 to 2, Number of Variables from 20 to 6."
+/core/src/com/google/inject/internal/SingleParameterInjector.java,java:S1068,"Remove this unused ""source"" private field."
+/extensions/persist/src/com/google/inject/persist/finder/DynamicFinder.java,java:S1068,"Remove this unused ""source"" private field."
+/extensions/testlib/src/com/google/inject/testing/throwingproviders/CheckedProviderSubject.java,java:S1181,Catch Exception instead of Throwable.
+/extensions/servlet/src/com/google/inject/servlet/FilterChainInvocation.java,java:S1181,Catch Exception instead of Throwable.
+/extensions/throwingproviders/src/com/google/inject/throwingproviders/CheckedProviders.java,java:S1155,Use isEmpty() to check whether the collection is empty or not.
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S1301,"Replace this ""switch"" statement by ""if"" statements to increase readability."
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/core/src/com/google/inject/internal/ProvidesMethodScanner.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/extensions/servlet/src/com/google/inject/servlet/GuiceFilter.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/core/src/com/google/inject/internal/DelegatingInvocationHandler.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/core/src/com/google/inject/internal/DefaultConstructionProxyFactory.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/extensions/grapher/src/com/google/inject/grapher/ShortNameFactory.java,java:S2147,"Combine this catch with the one at line 161, which has the same body."
+/core/src/com/google/inject/internal/SingletonScope.java,java:S1171,Move the contents of this initializer to a standard constructor or to field initializers.
+/extensions/servlet/src/com/google/inject/servlet/ServletUtils.java,java:S4719,"Replace ""com.google.common.base.Charsets.UTF_8"" with ""StandardCharsets.UTF_8""."
+/extensions/servlet/src/com/google/inject/servlet/ServletUtils.java,java:S127,Refactor the code in order to not assign to this loop counter from within the loop body.
+/extensions/persist/src/com/google/inject/persist/jpa/JpaFinderProxy.java,java:S127,Refactor the code in order to not assign to this loop counter from within the loop body.
+/core/src/com/google/inject/spi/ModuleAnnotatedMethodScanner.java,java:S4968,Replace this type parametrization by the 'final' type `Class`.
+/core/test/com/google/inject/internal/WeakKeySetUtils.java,java:S2925,"Remove this use of ""Thread.sleep()""."
+/core/src/com/google/inject/internal/WeakKeySet.java,java:S1121,Extract the assignment out of this expression.
+/extensions/grapher/src/com/google/inject/grapher/AbstractInjectorGrapher.java,java:S5993,"Change the visibility of this constructor to ""protected""."
+/extensions/grapher/src/com/google/inject/grapher/AbstractInjectorGrapher.java,java:S5993,"Change the visibility of this constructor to ""protected""."
+/core/src/com/google/inject/internal/AbstractBindingBuilder.java,java:S5993,"Change the visibility of this constructor to ""protected""."
+/core/src/com/google/inject/internal/UntargettedBindingProcessor.java,java:S3516,Refactor this method to not always return the same value.
+/core/src/com/google/inject/internal/Errors.java,java:S1700,"Rename field ""errors"""
+/extensions/grapher/src/com/google/inject/grapher/graphviz/ArrowType.java,java:S1700,"Rename field ""errors"""
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S4977,"Rename ""T"" which hides a type parameter from the outer scope."
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S4977,"Rename ""T"" which hides a type parameter from the outer scope."
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S4977,"Rename ""T"" which hides a type parameter from the outer scope."
+/core/src/com/google/inject/internal/EncounterImpl.java,java:S4977,"Rename ""T"" which hides a type parameter from the outer scope."
+/core/src/com/google/inject/spi/MembersInjectorLookup.java,java:S4977,"Rename ""T"" which hides a type parameter from the outer scope."
+/core/src/com/google/inject/spi/ProviderLookup.java,java:S4977,"Rename ""T"" which hides a type parameter from the outer scope."
+/extensions/assistedinject/test/com/google/inject/assistedinject/FactoryProvider2Test.java,java:S3415,"Swap these 2 arguments so they are in the correct order: expected value, actual value."
+/core/src/com/google/inject/ConfigurationException.java,java:S1165,"Make this ""partialValue"" field final."
+/core/src/com/google/inject/internal/InjectorImpl.java,java:S1168,Return an empty array instead of null.
+/core/src/com/google/inject/internal/AbstractProcessor.java,java:S4165,"Remove this useless assignment; ""errors"" already holds the assigned value along all execution paths."

@@ -1,0 +1,39 @@
+6er:
+java:S1192: String literals should not be duplicated
+java:S1135: Track uses of "TODO" tags
+java:S135:  Loops should not contain more than a single "break" or "continue" statement
+java:S3011:  Reflection should not be used to increase accessibility of classes, methods, or fields
+java:S3776: Cognitive Complexity of methods should not be too high
+java:S6548: The Singleton design pattern should be used with care
+5er:
+java:S1130: Exceptions in "throws" clauses should not be superfluous
+java:S2293: The diamond operator ("<>") should be used
+java:S1117: Local variables should not shadow class fields
+java:S3398: "private" methods called only by inner classes should be moved to those classes
+java:S3457: Format strings should be used correctly
+java:S1659: Multiple variables should not be declared on the same line
+java:S1700: A field should not duplicate the name of its containing class
+java:S107: Methods should not have too many parameters
+java:S108: Nested blocks of code should not be left empty
+java:S1155: "Collection.isEmpty()" should be used to test for emptiness
+java:S1118: Utility classes should not have public constructors
+java:S1905: Redundant casts should not be used
+java:S1854: Unused assignments should be removed
+java:S127: "for" loop stop conditions should be invariant
+java:S1141: Try-catch blocks should not be nested
+java:S1948: Fields in a "Serializable" class should either be transient or serializable
+java:S1604: Anonymous inner classes containing only one method should become lambdas
+java:S1133: Deprecated code should be removed
+
+
+
+PMD:
+6er:
+'pmd_CouplingBetweenObjects
+pmd_GodClass
+
+5er:
+pmd_MethodReturnsInternalArray
+AvoidDeeplyNestedIfStmts
+pmd_DataClass
+pmd_ExcessiveImports
