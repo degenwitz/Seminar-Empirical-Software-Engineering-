@@ -29,11 +29,17 @@ java:S1133: Deprecated code should be removed
 
 PMD:
 6er:
-'pmd_CouplingBetweenObjects
-pmd_GodClass
+pmd_LooseCoupling
+pmd_LawOfDemeter
 
 5er:
-pmd_MethodReturnsInternalArray
-AvoidDeeplyNestedIfStmts
-pmd_DataClass
-pmd_ExcessiveImports
+pmd_CyclomaticComplexity
+pmd_CognitiveComplexity
+
+4er:
+pmd_CouplingBetweenObjects
+pmd_GodClass
+
+negativ:
+1er
+pmd_MutableStaticState
