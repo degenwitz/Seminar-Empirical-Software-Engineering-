@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="codesmells"
+         xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
+    <description>Codesmell rules I (Dimitri) choose</description>
+
+    <!-- COMMENT RULES -->
+    <!-- <rule ref="category/java/documentation.xml/CommentContent" /> -->
+    <!-- <rule ref="category/java/documentation.xml/CommentRequired" /> -->
+    <!-- <rule ref="category/java/documentation.xml/CommentSize" /> -->
+    <!-- UNUSED BUT POTENTIALLY USEFULL RULES
+    <rule ref="category/java/bestpractices.xml/AvoidMessageDigestField"/>
+    <rule ref="category/java/bestpractices.xml/ForLoopVariableCount" />
+    <rule ref="category/java/bestpractices.xml/MissingOverride"/>
+    <rule ref="category/java/codestyle.xml/CommentDefaultAccessModifier" />
+    <rule ref="category/java/codestyle.xml/ConfusingTernary" />
+    <rule ref="category/java/codestyle.xml/TooManyStaticImports" /> 
+    <rule ref="category/java/design.xml/AbstractClassWithoutAnyMethod"/>
+    <rule ref="category/java/design.xml/AvoidCatchingGenericException" />
+    <rule ref="category/java/design.xml/ClassWithOnlyPrivateConstructorsShouldBeFinal"/>
+    <rule ref="category/java/design.xml/ExceptionAsFlowControl" />
+    <rule ref="category/java/design.xml/SwitchDensity" />
+    <rule ref="category/java/design.xml/TooManyFields" />
+    <rule ref="category/java/design.xml/TooManyMethods" /> 
+    <rule ref="category/java/design.xml/UseObjectForClearerAPI" />
+    <rule ref="category/java/errorprone.xml/AssignmentInOperand">
+        <properties>
+            <property name="allowWhile" value="true"/>
+        </properties>
+    </rule>
+    <rule ref="category/java/errorprone.xml/AvoidInstanceofChecksInCatchClause"/>
+    <rule ref="category/java/errorprone.xml/AvoidMultipleUnaryOperators"/>
+    <rule ref="category/java/errorprone.xml/AvoidUsingOctalValues"/>
+    <rule ref="category/java/multithreading.xml/AvoidSynchronizedAtMethodLevel" />
+    -->
+    <rule ref="category/java/bestpractices.xml/LooseCoupling"/>
+    <rule ref="category/java/bestpractices.xml/MethodReturnsInternalArray" /> <!-- method incapsulation -->
+    <rule ref="category/java/design.xml/DataClass" /> <!-- method incapsulation -->
+    <rule ref="category/java/design.xml/MutableStaticState" /> <!-- method incapsulation -->
+    <rule ref="category/java/design.xml/AvoidDeeplyNestedIfStmts" /> <!-- Deeply Nested Code -->
+    <rule ref="category/java/design.xml/CyclomaticComplexity" /> <!-- Deeply Nested Code -->
+    <rule ref="category/java/design.xml/NPathComplexity" />
+    <rule ref="category/java/design.xml/CognitiveComplexity" />
+    <rule ref="category/java/design.xml/CouplingBetweenObjects" />
+    <rule ref="category/java/design.xml/ExcessiveImports" /> <!-- high degree of coupling  -->
+    <rule ref="category/java/design.xml/ExcessiveParameterList" />
+    <rule ref="category/java/design.xml/GodClass" />
+    <rule ref="category/java/design.xml/LawOfDemeter" />
+    <rule ref="category/java/design.xml/LoosePackageCoupling"> -->
+    	<properties> 
+            <property name="packages" value="org.sample,org.sample2" />
+            <property name="classes" value="org.sample.SampleInterface,org.sample2.SampleInterface" />
+        </properties>
+    </rule>
+    <rule ref="category/java/design.xml/NcssCount" /> <!-- big class  -->
+    <rule ref="category/java/errorprone.xml/AvoidDuplicateLiterals" /> <!-- Code dublication -->
+    <rule ref="category/java/errorprone.xml/CheckSkipResult"/> <!-- Feature Envy -->
+</ruleset>
